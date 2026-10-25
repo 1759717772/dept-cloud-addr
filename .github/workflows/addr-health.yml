@@ -1,0 +1,61 @@
+name: addr-health-monitor
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: 探测公告牌地址并生成状态
+        run: |
+          python3 - <<'EOF'
+          import json, subprocess, time, os, re
+
+          board = {}
+          try:
+              raw = subprocess.run(['curl','-sL','--max-time','15',
+                  'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt'],
+                  capture_output=True, text=True, timeout=30).stdout
+              for line in raw.splitlines():
+                  if '=' in line:
+                      k, v = line.split('=', 1)
+                      board[k.strip()] = v.strip()
+          except Exception as e:
+              board = {'error': str(e)}
+
+          urls = []
+          for key in ('biz', 'biz2', 'backup'):
+              u = board.get(key, '')
+              if u.startswith('http') and u not in [x['url'] for x in urls]:
+                  urls.append({'url': u})
+
+          for item in urls:
+              u = item['url'].rstrip('/') + '/api/addr/status'
+              try:
+                  code = subprocess.run(['curl','-s','-o','/dev/null','-w','%{http_code}',
+                      '--max-time','12', u], capture_output=True, text=True, timeout=20).stdout.strip()
+                  item['code'] = code
+              except Exception:
+                  item['code'] = '000'
+
+          out = {
+              'checked_at': time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()),
+              'board_updated': board.get('updated', ''),
+              'addresses': urls,
+          }
+          with open('status.json', 'w', encoding='utf-8') as f:
+              json.dump(out, f, ensure_ascii=False, indent=2)
+          print(json.dumps(out, ensure_ascii=False, indent=2))
+          EOF
+      - name: 提交状态
+        run: |
+          git config user.name "addr-bot"
+          git config user.email "addr-bot@users.noreply.github.com"
+          git add status.json
+          git commit -m "health check $(date -u '+%Y-%m-%d %H:%M')" --quiet || echo "无变化"
+          git push origin main --quiet

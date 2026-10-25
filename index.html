@@ -19,6 +19,7 @@
   .badge { font-size:12px; padding:2px 8px; border-radius:20px; white-space:nowrap; }
   .badge-ok { background:#34C75922; color:#248A3D; }
   .badge-bad { background:#FF3B3022; color:#C2271D; }
+  .badge-warn { background:#FF950022; color:#B35600; }
   .info { font-size:12px; color:#8E8E93; margin-top:6px; }
   .board { font-family:Menlo,Consolas,monospace; font-size:12px; background:#F6F6F8; border-radius:8px; padding:12px; color:#3A3A3C; white-space:pre-wrap; word-break:break-all; }
   .links a { color:#007AFF; text-decoration:none; font-size:13px; margin-right:12px; }
@@ -28,66 +29,81 @@
 <body>
 <div class="card">
   <h1>部门综合管理系统 · 地址状态面板</h1>
-  <div class="sub">云端地址自动保活 · 隧道失效自动重建 · 公告牌自动更新（GitHub Pages 镜像）</div>
+  <div class="sub">GitHub Actions 每 10 分钟自动探测 ｜ 隧道失效自动重建 ｜ 公告牌自动更新</div>
+  <div id="srcNote" class="info" style="margin-bottom:8px;">数据源：GitHub Actions 自动探测（独立于服务器运行）</div>
   <div id="rows"></div>
 </div>
 <div class="card">
   <div style="font-size:15px;font-weight:600;margin-bottom:8px;">公告牌内容（最新）</div>
   <div id="board" class="board">加载中…</div>
-  <div class="info">主源 raw.githubusercontent.com ｜ 镜像源1 jsDelivr CDN ｜ 镜像源2 本页（GitHub Pages）</div>
+  <div class="info">主源 raw.githubusercontent.com ｜ 镜像1 jsDelivr CDN ｜ 镜像2 GitHub Pages ｜ 健康监测 GitHub Actions</div>
 </div>
 <div class="card links">
   <div style="font-size:15px;font-weight:600;margin-bottom:8px;">快捷入口</div>
   <a href="https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt" target="_blank">公告牌 raw</a>
   <a href="https://cdn.jsdelivr.net/gh/1759717772/dept-cloud-addr@main/addr.txt" target="_blank">公告牌 jsDelivr</a>
   <a href="addr.txt" target="_blank">公告牌 Pages 镜像</a>
+  <a href="https://github.com/1759717772/dept-cloud-addr/actions" target="_blank">监测记录</a>
 </div>
 <div class="time" id="time"></div>
 <script>
 (function(){
-  var rows = document.getElementById('rows');
+  var rowsEl = document.getElementById('rows');
   var boardEl = document.getElementById('board');
   var timeEl = document.getElementById('time');
+  var srcNote = document.getElementById('srcNote');
   var BOARD = 'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt';
-  var CLOUD = 'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt';
-  var CORS = 'https://corsproxy.io/?'; // 可选的 CORS 代理（探测用）
-  function el(tag, cls, txt){ var e=document.createElement(tag); if(cls)e.className=cls; if(txt!=null)e.textContent=txt; return e; }
-  function probe(url, cb){
-    // 用 image 探测：能加载 favicon/任意资源即算通（跨域下只判可达性）
-    var img = new Image();
-    var done = false;
-    var t = setTimeout(function(){ if(!done){ done=true; cb(false); } }, 9000);
-    img.onload = function(){ if(!done){ done=true; clearTimeout(t); cb(true); } };
-    img.onerror = function(){ if(!done){ done=true; clearTimeout(t); cb(false); } };
-    img.src = url + 'favicon.ico?' + Date.now();
-  }
-  function render(){
+  var STATUS = 'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/status.json';
+
+  function esc(s){ var d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+  function badge(txt, kind){ return '<span class="badge badge-'+kind+'">'+esc(txt)+'</span>'; }
+
+  // 优先 Actions 探测结果（服务器独立），失败则浏览器本地探测兜底
+  fetch(STATUS, { cache:'no-store' }).then(function(r){ return r.json(); }).then(function(s){
+    srcNote.textContent = '数据源：GitHub Actions 自动探测 · 最近检测 ' + (s.checked_at||'');
+    rowsEl.innerHTML = '';
+    if(!s.addresses || !s.addresses.length){ rowsEl.innerHTML = '<div class="row">暂无地址</div>'; return; }
+    s.addresses.forEach(function(a, i){
+      var role = i===0 ? '主地址' : (i===1 ? '备用地址' : '备用2');
+      var ok = a.code === '200';
+      var r = document.createElement('div'); r.className = 'row';
+      r.innerHTML = '<span class="dot '+(ok?'ok':'bad')+'"></span>'
+        + '<span class="url">' + badge(ok?'可访问':'不可访问', ok?'ok':'bad')
+        + ' <span style="margin:0 8px;color:#8E8E93;">' + role + '</span> ' + esc(a.url)
+        + ' <span class="code">HTTP ' + esc(a.code) + '</span></span>';
+      rowsEl.appendChild(r);
+    });
+    timeEl.textContent = '最近检测：' + (s.checked_at||'') + '（每 10 分钟自动更新）';
+  }).catch(function(){
+    // 兜底：本地浏览器探测
+    srcNote.textContent = '数据源：浏览器本地探测（Actions 未就绪）';
     fetch(BOARD, { cache:'no-store' }).then(function(r){ return r.text(); }).then(function(txt){
       boardEl.textContent = txt;
       var urls = txt.split('\n').filter(function(l){ return /^(biz|biz2|backup)=http/.test(l); })
         .map(function(l){ return l.split('=')[1].trim(); });
       var seen = []; urls.forEach(function(u){ if(seen.indexOf(u)<0) seen.push(u); });
-      rows.innerHTML = '';
-      if(!seen.length){ rows.appendChild(el('div','row', '公告牌暂无地址')); return; }
-      var total = seen.length, done = 0;
+      rowsEl.innerHTML = '';
       seen.forEach(function(u, i){
         var role = i===0?'主地址':(i===1?'备用地址':'备用2');
-        var row = el('div','row');
-        var d = el('span','dot warn'); d.style.background='#FF9500';
-        var lb = el('span','url'); lb.innerHTML = '<span class="badge badge-bad">检测中…</span> <span style="margin:0 8px">'+role+'</span> '+u;
-        row.appendChild(d); row.appendChild(lb);
-        rows.appendChild(row);
-        probe(u, function(ok){
-          d.style.background = ok ? '#34C759' : '#FF3B30';
-          lb.innerHTML = '<span class="badge '+(ok?'badge-ok':'badge-bad')+'">'+(ok?'可访问':'不可访问')+'</span> <span style="margin:0 8px">'+role+'</span> '+u;
-          done++; if(done>=total) timeEl.textContent = '探测完成 · ' + new Date().toLocaleString('zh-CN');
-        });
+        var r = document.createElement('div'); r.className = 'row';
+        r.innerHTML = '<span class="dot warn"></span><span class="url">'
+          + badge('检测中…','warn') + ' <span style="margin:0 8px;color:#8E8E93;">' + role + '</span> ' + esc(u) + '</span>';
+        rowsEl.appendChild(r);
+        var img = new Image(); var done = false;
+        var t = setTimeout(function(){ if(!done){ done=true; mark(false); } }, 9000);
+        img.onload = function(){ if(!done){ done=true; clearTimeout(t); mark(true); } };
+        img.onerror = function(){ if(!done){ done=true; clearTimeout(t); mark(false); } };
+        img.src = u + 'favicon.ico?' + Date.now();
+        function mark(ok){ r.innerHTML = '<span class="dot '+(ok?'ok':'bad')+'"></span><span class="url">'
+          + badge(ok?'可访问':'不可访问', ok?'ok':'bad') + ' <span style="margin:0 8px;color:#8E8E93;">' + role + '</span> ' + esc(u) + '</span>'; }
       });
-    }).catch(function(){ boardEl.textContent = '公告牌加载失败（网络或 raw 缓存）'; });
-  }
-  timeEl.textContent = '检测中 · ' + new Date().toLocaleString('zh-CN');
-  render();
-  setInterval(render, 30000);
+    }).catch(function(){ rowsEl.innerHTML = '<div class="row">加载失败</div>'; });
+  });
+
+  fetch(BOARD, { cache:'no-store' }).then(function(r){ return r.text(); }).then(function(txt){
+    boardEl.textContent = txt;
+  }).catch(function(){});
+  setInterval(function(){ location.reload(); }, 60000);
 })();
 </script>
 </body>

@@ -1,4 +1,4 @@
-biz=https://star-factor-joseph-carried.trycloudflare.com
-biz2=https://star-factor-joseph-carried.trycloudflare.com
+biz=https://latex-freelance-socket-indicating.trycloudflare.com
+biz2=https://latex-freelance-socket-indicating.trycloudflare.com
 backup=
-updated=2026-10-25 18:03:54
+updated=2026-10-25 18:07:47

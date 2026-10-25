@@ -1,4 +1,4 @@
-biz=https://supplied-hampshire-were-few.trycloudflare.com
-biz2=https://supplied-hampshire-were-few.trycloudflare.com
+biz=https://star-factor-joseph-carried.trycloudflare.com
+biz2=https://star-factor-joseph-carried.trycloudflare.com
 backup=
-updated=2026-10-25 16:16:29
+updated=2026-10-25 18:03:54

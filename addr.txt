@@ -1,5 +1,5 @@
-biz=https://town-heavy-smilies-remarks.trycloudflare.com
-biz2=https://town-heavy-smilies-remarks.trycloudflare.com
+biz=https://charming-mat-morgan-troy.trycloudflare.com
+biz2=https://charming-mat-morgan-troy.trycloudflare.com
 backup=
 version=8.4.0
-updated=2026-10-26 02:42:42
+updated=2026-10-25 18:53:38

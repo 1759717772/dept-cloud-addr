@@ -1,4 +1,4 @@
-biz=https://transcripts-pizza-pam-diego.trycloudflare.com
-biz2=https://transcripts-pizza-pam-diego.trycloudflare.com
+biz=https://supplied-hampshire-were-few.trycloudflare.com
+biz2=https://supplied-hampshire-were-few.trycloudflare.com
 backup=
-updated=2026-10-25 16:06:42
+updated=2026-10-25 16:16:29

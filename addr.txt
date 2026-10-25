@@ -1,4 +1,4 @@
-biz=https://latex-freelance-socket-indicating.trycloudflare.com
-biz2=https://latex-freelance-socket-indicating.trycloudflare.com
+biz=https://town-heavy-smilies-remarks.trycloudflare.com
+biz2=https://town-heavy-smilies-remarks.trycloudflare.com
 backup=
-updated=2026-10-25 18:07:47
+updated=2026-10-25 18:39:42

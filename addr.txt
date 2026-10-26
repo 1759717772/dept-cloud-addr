@@ -1,5 +1,5 @@
-biz=https://thickness-biography-linking-moreover.trycloudflare.com
-biz2=https://thickness-biography-linking-moreover.trycloudflare.com
+biz=https://muze-candidate-cards-liabilities.trycloudflare.com
+biz2=https://muze-candidate-cards-liabilities.trycloudflare.com
 backup=https://governing-reached-cameron-return.trycloudflare.com
 backup2=https://challenging-ireland-holidays-lending.trycloudflare.com
 backup3=https://penn-bizarre-understand-sheer.trycloudflare.com
@@ -7,4 +7,4 @@ backup4=https://subscribe-versus-administration-ian.trycloudflare.com
 backup5=https://communication-faster-downtown-bacterial.trycloudflare.com
 backup6=https://others-tampa-against-sites.trycloudflare.com
 version=8.5.0
-updated=2026-10-26 13:43:33
+updated=2026-10-26 16:09:31

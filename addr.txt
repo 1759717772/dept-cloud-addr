@@ -1,10 +1,5 @@
-biz=https://guild-receipt-creek-elephant.trycloudflare.com
-biz2=https://guild-receipt-creek-elephant.trycloudflare.com
-backup=https://seal-persistent-project-custody.trycloudflare.com
-backup2=https://relationship-bronze-mathematics-replies.trycloudflare.com
-backup4=https://illinois-consolidated-shops-adjusted.trycloudflare.com
-backup5=https://counting-bowl-carriers-called.trycloudflare.com
-backup6=https://organizational-offices-wolf-isp.trycloudflare.com
-backup3=https://defeat-day-figured-valve.trycloudflare.com
-version=8.5.0
-updated=2026-10-26 03:30:55
+biz=https://outstanding-sleep-herbs-scales.trycloudflare.com
+biz2=https://outstanding-sleep-herbs-scales.trycloudflare.com
+backup=
+version=8.4.0
+updated=2026-10-26 09:01:26

@@ -1,5 +1,5 @@
-biz=https://mental-laboratory-parker-promoted.trycloudflare.com
-biz2=https://mental-laboratory-parker-promoted.trycloudflare.com
+biz=https://thickness-biography-linking-moreover.trycloudflare.com
+biz2=https://thickness-biography-linking-moreover.trycloudflare.com
 backup=https://sponsorship-joseph-stats-sign.trycloudflare.com
 backup2=https://oasis-comic-chip-joke.trycloudflare.com
 backup3=https://penn-bizarre-understand-sheer.trycloudflare.com
@@ -7,4 +7,4 @@ backup4=https://state-roots-enzyme-recognized.trycloudflare.com
 backup5=https://rarely-jpg-typing-licenses.trycloudflare.com
 backup6=https://celtic-dance-bend-mysterious.trycloudflare.com
 version=8.5.0
-updated=2026-10-26 13:33:15
+updated=2026-10-26 13:43:33

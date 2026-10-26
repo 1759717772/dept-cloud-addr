@@ -1,7 +1,7 @@
 biz=https://surface-discovery-capability-indicate.trycloudflare.com
 biz2=https://surface-discovery-capability-indicate.trycloudflare.com
 backup=https://catalogs-dive-sponsored-shipped.trycloudflare.com
-backup2=https://relationship-bronze-mathematics-replies.trycloudflare.com
+backup2=https://oasis-comic-chip-joke.trycloudflare.com
 backup3=https://astronomy-fever-explosion-hourly.trycloudflare.com
 backup4=https://attachments-legendary-inspiration-serve.trycloudflare.com
 backup5=https://counting-bowl-carriers-called.trycloudflare.com

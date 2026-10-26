@@ -1,9 +1,13 @@
 {
-  "checked_at": "2026-10-26 04:52:22",
-  "board_updated": "2026-10-26 03:30:55",
+  "checked_at": "2026-10-26 10:40:45",
+  "board_updated": "2026-10-26 09:17:34",
   "addresses": [
     {
-      "url": "https://guild-receipt-creek-elephant.trycloudflare.com",
+      "url": "https://surface-discovery-capability-indicate.trycloudflare.com",
+      "code": "200"
+    },
+    {
+      "url": "https://seal-persistent-project-custody.trycloudflare.com",
       "code": "200"
     }
   ]

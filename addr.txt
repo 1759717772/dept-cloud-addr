@@ -1,7 +1,7 @@
 biz=https://mag-sixth-coal-project.trycloudflare.com
 biz2=https://mag-sixth-coal-project.trycloudflare.com
 backup=https://under-fur-marker-richards.trycloudflare.com
-backup2=https://aquatic-dev-civic-frequently.trycloudflare.com
+backup2=https://ctrl-maintain-coins-showcase.trycloudflare.com
 backup3=https://implement-always-taxi-democratic.trycloudflare.com
 backup4=https://habits-improvements-taught-donation.trycloudflare.com
 backup5=https://foreign-means-ampland-camera.trycloudflare.com

@@ -1,7 +1,7 @@
 biz=https://italia-fast-juan-dogs.trycloudflare.com
 biz2=https://italia-fast-juan-dogs.trycloudflare.com
 backup=https://buddy-moment-actual-wage.trycloudflare.com
-backup2=https://widescreen-hart-witch-plymouth.trycloudflare.com
+backup2=https://alfred-launches-milton-quiz.trycloudflare.com
 backup3=https://awards-operate-eleven-alexander.trycloudflare.com
 backup4=https://jews-tourist-composed-high.trycloudflare.com
 backup5=https://barbara-expect-pig-clothes.trycloudflare.com

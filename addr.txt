@@ -1,7 +1,7 @@
 biz=https://mag-sixth-coal-project.trycloudflare.com
 biz2=https://mag-sixth-coal-project.trycloudflare.com
 backup=https://playlist-shaved-born-powered.trycloudflare.com
-backup2=https://ctrl-maintain-coins-showcase.trycloudflare.com
+backup2=https://salon-kate-hills-wave.trycloudflare.com
 backup3=https://implement-always-taxi-democratic.trycloudflare.com
 backup4=https://logical-met-blog-kinase.trycloudflare.com
 backup5=https://manufacturers-prescription-wait-portable.trycloudflare.com

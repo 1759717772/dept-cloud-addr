@@ -1,5 +1,5 @@
-biz=https://intermediate-thinkpad-cart-appear.trycloudflare.com
-biz2=https://intermediate-thinkpad-cart-appear.trycloudflare.com
+biz=https://click-actress-imagination-mount.trycloudflare.com
+biz2=https://click-actress-imagination-mount.trycloudflare.com
 backup=https://coaches-hello-alexandria-conversation.trycloudflare.com
 backup2=https://aquatic-dev-civic-frequently.trycloudflare.com
 backup3=https://jokes-itself-tone-incidents.trycloudflare.com
@@ -7,4 +7,4 @@ backup4=https://viii-investor-drug-auctions.trycloudflare.com
 backup5=https://slip-domestic-ballot-asus.trycloudflare.com
 backup6=https://negotiations-use-shorter-transcription.trycloudflare.com
 version=8.5.0
-updated=2026-10-27 03:39:58
+updated=2026-10-27 06:11:52

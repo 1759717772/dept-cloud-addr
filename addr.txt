@@ -1,5 +1,5 @@
-biz=https://italia-fast-juan-dogs.trycloudflare.com
-biz2=https://italia-fast-juan-dogs.trycloudflare.com
+biz=https://contrast-walks-worcester-proceed.trycloudflare.com
+biz2=https://contrast-walks-worcester-proceed.trycloudflare.com
 backup=https://buddy-moment-actual-wage.trycloudflare.com
 backup2=https://alfred-launches-milton-quiz.trycloudflare.com
 backup3=https://awards-operate-eleven-alexander.trycloudflare.com
@@ -7,4 +7,4 @@ backup4=https://jews-tourist-composed-high.trycloudflare.com
 backup5=https://barbara-expect-pig-clothes.trycloudflare.com
 backup6=https://lender-selections-index-celebration.trycloudflare.com
 version=8.5.0
-updated=2026-10-27 17:25:35
+updated=2026-10-27 22:51:09

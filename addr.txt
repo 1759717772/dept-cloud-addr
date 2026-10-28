@@ -1,7 +1,7 @@
 biz=https://stylus-individually-ways-preservation.trycloudflare.com
 biz2=https://stylus-individually-ways-preservation.trycloudflare.com
 backup=https://manufacturer-causes-freebsd-feat.trycloudflare.com
-backup2=https://alfred-launches-milton-quiz.trycloudflare.com
+backup2=https://automatic-recruitment-indie-washer.trycloudflare.com
 backup3=https://based-rehabilitation-tax-improvement.trycloudflare.com
 backup4=https://habits-delivers-versions-remedy.trycloudflare.com
 backup5=https://transcript-orlando-rebecca-madonna.trycloudflare.com

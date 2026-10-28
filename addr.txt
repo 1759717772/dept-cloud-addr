@@ -1,5 +1,4 @@
 biz=https://contests-istanbul-government-ranges.trycloudflare.com
-biz2=https://stylus-individually-ways-preservation.trycloudflare.com
 backup=https://exceptions-aspect-optimize-friendship.trycloudflare.com
 backup2=https://mysql-describe-aus-aggregate.trycloudflare.com
 backup3=https://seas-customize-appliance-graduated.trycloudflare.com

@@ -1,6 +1,6 @@
 biz=https://communities-winners-worker-layer.trycloudflare.com
 backup2=https://hits-treasury-deployment-maine.trycloudflare.com
-backup3=https://fitness-chancellor-scotia-psychology.trycloudflare.com
+backup3=https://champions-scheduling-remove-less.trycloudflare.com
 backup4=https://retailers-fotos-rebel-clinton.trycloudflare.com
 backup5=https://roommate-retailers-poultry-pens.trycloudflare.com
 backup6=https://handy-knowledge-ability-menus.trycloudflare.com

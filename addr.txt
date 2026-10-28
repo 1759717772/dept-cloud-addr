@@ -1,4 +1,4 @@
-biz=https://homework-segments-sms-exercise.trycloudflare.com
+biz=https://sin-reminder-warner-august.trycloudflare.com
 backup2=https://cycles-sufficient-sie-gmt.trycloudflare.com
 backup3=https://occur-brings-louise-accessed.trycloudflare.com
 backup4=https://prices-surgeons-challenge-fed.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://wholesale-uses-underground-genius.trycloudflare.com
 backup1=https://name-cooper-explicitly-exchanges.trycloudflare.com
 backup=https://quality-project-blackberry-semester.trycloudflare.com
 version=8.5.0
-updated=2026-10-28 20:22:03
+updated=2026-10-28 20:24:05

@@ -1,5 +1,5 @@
 biz=https://installations-earn-christina-mails.trycloudflare.com
-backup2=https://mysql-describe-aus-aggregate.trycloudflare.com
+backup2=https://hits-treasury-deployment-maine.trycloudflare.com
 backup3=https://fitness-chancellor-scotia-psychology.trycloudflare.com
 backup4=https://myth-patent-authentication-dame.trycloudflare.com
 backup5=https://arrive-sarah-well-duncan.trycloudflare.com

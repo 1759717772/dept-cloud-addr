@@ -5,5 +5,6 @@ backup3=https://seas-customize-appliance-graduated.trycloudflare.com
 backup4=https://myth-patent-authentication-dame.trycloudflare.com
 backup5=https://arrive-sarah-well-duncan.trycloudflare.com
 backup6=https://lat-fall-wide-paradise.trycloudflare.com
+biz2=https://animation-balloon-releases-eggs.trycloudflare.com
 version=8.5.0
 updated=2026-10-28 08:51:38

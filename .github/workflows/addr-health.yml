@@ -29,7 +29,7 @@ jobs:
               board = {'error': str(e)}
 
           urls = []
-          for key in ('biz', 'biz2', 'backup'):
+          for key in ('biz', 'biz2', 'backup1', 'backup2', 'backup3', 'backup4', 'backup5', 'backup6'):
               u = board.get(key, '')
               if u.startswith('http') and u not in [x['url'] for x in urls]:
                   urls.append({'url': u})

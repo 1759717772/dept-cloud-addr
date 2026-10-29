@@ -1,4 +1,4 @@
-biz=https://supervisors-jackson-beth-declined.trycloudflare.com
+biz=https://inherited-trout-manga-rrp.trycloudflare.com
 backup2=https://batman-chain-warrior-angela.trycloudflare.com
 backup3=https://reasonably-seminars-trucks-amber.trycloudflare.com
 backup4=https://walt-guardian-northeast-inch.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://toronto-pressing-endif-bargains.trycloudflare.com
 backup1=https://seemed-jimmy-simpsons-prophet.trycloudflare.com
 backup=https://sterling-vessel-winter-petition.trycloudflare.com
 version=8.6.0
-updated=2026-10-29 00:08:01
+updated=2026-10-29 01:48:53

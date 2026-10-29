@@ -1,4 +1,4 @@
-biz=https://mean-sitting-locator-railway.trycloudflare.com
+biz=https://suddenly-travelling-explorer-moves.trycloudflare.com
 backup2=https://initiated-only-debug-spirit.trycloudflare.com
 backup3=https://med-mart-charter-watches.trycloudflare.com
 backup4=https://reef-affiliation-edgar-generally.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://hoping-drugs-punch-lid.trycloudflare.com
 backup1=https://expiration-satisfied-kijiji-tip.trycloudflare.com
 backup=https://camp-industries-issued-interviews.trycloudflare.com
 version=8.6.0
-updated=2026-10-29 14:05:36
+updated=2026-10-29 15:46:23

@@ -6,6 +6,6 @@ backup5=https://exclusive-deferred-whole-boxed.trycloudflare.com
 backup6=https://partners-mineral-programmer-cams.trycloudflare.com
 biz2=https://championships-johnson-valium-order.trycloudflare.com
 backup1=https://bikini-rankings-federal-carriers.trycloudflare.com
-backup=https://camp-industries-issued-interviews.trycloudflare.com
+backup=https://select-scripts-publication-situated.trycloudflare.com
 version=8.6.0
 updated=2026-10-29 17:35:16

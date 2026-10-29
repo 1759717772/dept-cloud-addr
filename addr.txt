@@ -1,5 +1,5 @@
 biz=https://bite-lender-hottest-dsl.trycloudflare.com
-backup2=https://lists-precision-nec-talented.trycloudflare.com
+backup2=https://student-approaches-beth-locate.trycloudflare.com
 backup3=https://concluded-puzzle-oak-full.trycloudflare.com
 backup4=https://cents-replace-scientists-gdp.trycloudflare.com
 backup5=https://exclusive-deferred-whole-boxed.trycloudflare.com

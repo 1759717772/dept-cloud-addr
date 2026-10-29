@@ -1,4 +1,4 @@
-biz=https://vip-reducing-responsible-apply.trycloudflare.com
+biz=https://mean-sitting-locator-railway.trycloudflare.com
 backup2=https://redeem-richards-justin-submitting.trycloudflare.com
 backup3=https://bold-women-foreign-makes.trycloudflare.com
 backup4=https://recognized-run-tender-hats.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://completing-albert-rrp-pockets.trycloudflare.com
 backup1=https://literacy-foreign-wines-event.trycloudflare.com
 backup=https://camp-industries-issued-interviews.trycloudflare.com
 version=8.6.0
-updated=2026-10-29 12:24:36
+updated=2026-10-29 14:05:36

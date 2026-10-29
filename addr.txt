@@ -1,4 +1,4 @@
-biz=https://attacks-introduced-infrastructure-cingular.trycloudflare.com
+biz=https://pledge-builds-philosophy-languages.trycloudflare.com
 backup2=https://peninsula-consent-watson-aspects.trycloudflare.com
 backup3=https://imagine-revisions-date-monica.trycloudflare.com
 backup4=https://robot-stockholm-defining-coat.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://lot-trek-contacted-foster.trycloudflare.com
 backup1=https://fragrances-putting-dialog-optical.trycloudflare.com
 backup=https://race-principle-desert-polyester.trycloudflare.com
 version=8.6.0
-updated=2026-10-29 05:04:13
+updated=2026-10-29 06:44:42

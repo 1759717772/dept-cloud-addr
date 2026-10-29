@@ -1,5 +1,5 @@
 biz=https://textiles-welfare-individually-mambo.trycloudflare.com
-backup2=https://games-adds-messaging-snowboard.trycloudflare.com
+backup2=https://aquatic-steering-town-shared.trycloudflare.com
 backup3=https://junior-photographs-grab-consumers.trycloudflare.com
 backup4=https://accent-homepage-duties-kate.trycloudflare.com
 backup5=https://delayed-offers-conjunction-oregon.trycloudflare.com

@@ -1,4 +1,4 @@
-biz=https://circulation-cancelled-midlands-explicitly.trycloudflare.com
+biz=https://kurt-theorem-forecasts-rules.trycloudflare.com
 backup2=https://integrate-visitor-upgrade-exports.trycloudflare.com
 backup3=https://concluded-puzzle-oak-full.trycloudflare.com
 backup4=https://cents-replace-scientists-gdp.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://qualifications-circles-bedroom-boom.trycloudflare.com
 backup1=https://bikini-rankings-federal-carriers.trycloudflare.com
 backup=https://camp-industries-issued-interviews.trycloudflare.com
 version=8.6.0
-updated=2026-10-29 15:49:50
+updated=2026-10-29 17:31:47

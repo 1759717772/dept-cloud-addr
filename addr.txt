@@ -1,4 +1,4 @@
-biz=https://livestock-redhead-hampshire-certain.trycloudflare.com
+biz=https://butterfly-carry-straight-affects.trycloudflare.com
 backup2=https://induction-explore-gates-indicate.trycloudflare.com
 backup3=https://inn-possession-arrangements-app.trycloudflare.com
 backup4=https://breach-midi-citizens-harold.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://elizabeth-clarke-die-blond.trycloudflare.com
 backup1=https://residential-passive-correspondence-describe.trycloudflare.com
 backup=https://options-statements-discretion-making.trycloudflare.com
 version=8.6.0
-updated=2026-10-30 01:21:06
+updated=2026-10-30 01:22:32

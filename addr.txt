@@ -1,4 +1,4 @@
-biz=https://anti-gear-lobby-edited.trycloudflare.com
+biz=https://agents-apparel-rat-fiscal.trycloudflare.com
 backup2=https://personally-westminster-thread-cross.trycloudflare.com
 backup3=https://nonprofit-summit-guaranteed-released.trycloudflare.com
 backup4=https://shut-juice-majority-remedy.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://redhead-scotland-managed-candidates.trycloudflare.com
 backup1=https://recreational-sandwich-squad-regular.trycloudflare.com
 backup=https://val-pan-produce-soon.trycloudflare.com
 version=8.6.0
-updated=2026-10-30 19:07:02
+updated=2026-10-30 20:47:33

@@ -1,4 +1,4 @@
-biz=https://keith-doll-wait-masters.trycloudflare.com
+biz=https://trials-term-parade-profits.trycloudflare.com
 backup2=https://deposit-alone-vitamin-joyce.trycloudflare.com
 backup3=https://meaningful-guest-const-pod.trycloudflare.com
 backup4=https://extremely-flows-fioricet-groups.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://nose-suggestions-substances-brighton.trycloudflare.com
 backup1=https://aerial-candles-melissa-chicken.trycloudflare.com
 backup=https://molecular-nested-pathology-physics.trycloudflare.com
 version=8.6.0
-updated=2026-10-30 10:16:13
+updated=2026-10-30 10:19:49

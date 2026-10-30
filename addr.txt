@@ -6,6 +6,6 @@ backup5=https://honors-clay-kick-governments.trycloudflare.com
 backup6=https://material-command-chubby-institution.trycloudflare.com
 biz2=https://bunny-languages-events-hair.trycloudflare.com
 backup1=https://thirty-resort-reaches-eagle.trycloudflare.com
-backup=https://val-pan-produce-soon.trycloudflare.com
+backup=https://officers-starring-changed-para.trycloudflare.com
 version=8.6.0
 updated=2026-10-30 22:32:09

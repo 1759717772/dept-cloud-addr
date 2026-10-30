@@ -1,6 +1,6 @@
 biz=https://anti-gear-lobby-edited.trycloudflare.com
 backup2=https://personally-westminster-thread-cross.trycloudflare.com
-backup3=https://sit-chronicles-phenomenon-stat.trycloudflare.com
+backup3=https://till-danny-regularly-revealed.trycloudflare.com
 backup4=https://shut-juice-majority-remedy.trycloudflare.com
 backup5=https://forty-photographers-lending-corn.trycloudflare.com
 backup6=https://kirk-lie-fell-mapping.trycloudflare.com

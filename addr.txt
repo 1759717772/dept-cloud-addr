@@ -1,4 +1,4 @@
-biz=https://graduates-fotos-simultaneously-fitness.trycloudflare.com
+biz=https://virtual-allied-instructions-mono.trycloudflare.com
 backup2=https://deputy-exploring-acquisitions-otherwise.trycloudflare.com
 backup3=https://criteria-fans-russia-never.trycloudflare.com
 backup4=https://techniques-moderator-pure-keen.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://bunny-languages-events-hair.trycloudflare.com
 backup1=https://thirty-resort-reaches-eagle.trycloudflare.com
 backup=https://officers-starring-changed-para.trycloudflare.com
 version=8.6.0
-updated=2026-10-30 22:36:29
+updated=2026-10-30 22:37:59

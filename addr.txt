@@ -1,5 +1,5 @@
 biz=https://anti-gear-lobby-edited.trycloudflare.com
-backup2=https://diabetes-faculty-created-nvidia.trycloudflare.com
+backup2=https://quantum-loud-swimming-gorgeous.trycloudflare.com
 backup3=https://sit-chronicles-phenomenon-stat.trycloudflare.com
 backup4=https://harmony-perl-jaguar-kingdom.trycloudflare.com
 backup5=https://acts-connectors-worcester-multiple.trycloudflare.com

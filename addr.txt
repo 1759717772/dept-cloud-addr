@@ -1,4 +1,4 @@
-biz=https://congressional-maui-angle-bird.trycloudflare.com
+biz=https://ripe-mon-villas-safe.trycloudflare.com
 backup2=https://thread-theory-literacy-those.trycloudflare.com
 backup3=https://creek-guestbook-recommends-treasure.trycloudflare.com
 backup4=https://kidney-laughing-sorted-same.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://teach-ecology-compute-filling.trycloudflare.com
 backup1=https://additions-survival-hip-decorating.trycloudflare.com
 backup=https://selection-origin-shop-clearing.trycloudflare.com
 version=8.6.0
-updated=2026-10-30 13:51:13
+updated=2026-10-30 15:32:42

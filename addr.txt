@@ -1,4 +1,4 @@
-biz=https://decrease-invited-peripheral-technology.trycloudflare.com
+biz=https://dollar-ash-invest-impact.trycloudflare.com
 backup2=https://general-font-correctly-procedure.trycloudflare.com
 backup3=https://lines-inter-vegetation-mumbai.trycloudflare.com
 backup4=https://reducing-truck-adsl-jeremy.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://harbour-knitting-cherry-halloween.trycloudflare.com
 backup1=https://summary-viewer-nokia-increased.trycloudflare.com
 backup=https://hang-plot-recognition-consistently.trycloudflare.com
 version=8.6.0
-updated=2026-10-31 10:09:37
+updated=2026-10-31 11:50:13

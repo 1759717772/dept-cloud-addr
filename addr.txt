@@ -1,4 +1,4 @@
-biz=https://tales-chair-beta-examining.trycloudflare.com
+biz=https://ascii-labeled-parliament-organizational.trycloudflare.com
 backup2=https://printable-near-convinced-looksmart.trycloudflare.com
 backup3=https://pricing-tennessee-supervision-latino.trycloudflare.com
 backup4=https://count-reception-liverpool-plays.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://ruling-viewer-controller-ana.trycloudflare.com
 backup1=https://ranking-perception-ampland-transmitted.trycloudflare.com
 backup=https://secondary-arrow-seats-prescribed.trycloudflare.com
 version=8.6.0
-updated=2026-10-31 03:20:12
+updated=2026-10-31 05:00:40

@@ -1,4 +1,4 @@
-biz=https://theaters-automobile-far-influences.trycloudflare.com
+biz=https://platforms-firms-julie-reporters.trycloudflare.com
 backup2=https://incurred-zoo-ton-shows.trycloudflare.com
 backup3=https://products-directories-established-thick.trycloudflare.com
 backup4=https://including-authentic-choosing-mary.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://witness-associated-bee-updating.trycloudflare.com
 backup1=https://minimal-reduced-controls-sorry.trycloudflare.com
 backup=https://newest-cocktail-indiana-crown.trycloudflare.com
 version=8.6.0
-updated=2026-10-31 20:45:42
+updated=2026-10-31 20:47:44

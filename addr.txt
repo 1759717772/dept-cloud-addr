@@ -1,4 +1,4 @@
-biz=https://complicated-cooperative-sides-wires.trycloudflare.com
+biz=https://widely-trusted-cdna-book.trycloudflare.com
 backup2=https://andale-club-meant-implement.trycloudflare.com
 backup3=https://displaying-solid-creature-face.trycloudflare.com
 backup4=https://communication-together-browsers-industries.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://bullet-two-specialist-beef.trycloudflare.com
 backup1=https://cia-every-museum-sympathy.trycloudflare.com
 backup=https://lens-adrian-width-postcards.trycloudflare.com
 version=8.6.0
-updated=2026-10-31 17:05:49
+updated=2026-10-31 17:22:04

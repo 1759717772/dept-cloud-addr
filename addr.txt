@@ -1,4 +1,4 @@
-biz=https://advocacy-sphere-regarding-potter.trycloudflare.com
+biz=https://bracket-fotos-provision-offerings.trycloudflare.com
 backup2=https://min-miss-genes-dsc.trycloudflare.com
 backup3=https://agriculture-award-lambda-maritime.trycloudflare.com
 backup4=https://blind-builders-stranger-energy.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://learn-gauge-advice-hart.trycloudflare.com
 backup1=https://despite-tips-productive-lasting.trycloudflare.com
 backup=https://lens-adrian-width-postcards.trycloudflare.com
 version=8.6.0
-updated=2026-10-31 19:02:57
+updated=2026-10-31 19:04:54

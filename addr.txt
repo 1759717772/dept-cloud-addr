@@ -6,6 +6,6 @@ backup5=https://adaptor-smoking-jones-zero.trycloudflare.com
 backup6=https://prize-stations-pastor-nice.trycloudflare.com
 biz2=https://refuse-portsmouth-controlling-knitting.trycloudflare.com
 backup1=https://longer-concluded-empty-rochester.trycloudflare.com
-backup=https://occasions-elect-one-largest.trycloudflare.com
+backup=https://sort-laura-dept-holdem.trycloudflare.com
 version=8.6.0
 updated=2026-11-01 05:10:18

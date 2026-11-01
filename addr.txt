@@ -1,4 +1,4 @@
-biz=https://dramatically-rely-wool-univ.trycloudflare.com
+biz=https://injured-wait-displaying-aircraft.trycloudflare.com
 backup2=https://tariff-cube-released-paste.trycloudflare.com
 backup3=https://sell-unsubscribe-respective-surprising.trycloudflare.com
 backup4=https://wednesday-closer-ridge-combat.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://taken-screen-tcp-from.trycloudflare.com
 backup1=https://archive-redeem-comparisons-mirror.trycloudflare.com
 backup=https://occasions-elect-one-largest.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 03:23:41
+updated=2026-11-01 05:05:50

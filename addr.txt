@@ -1,4 +1,4 @@
-biz=https://rouge-threshold-furnishings-postage.trycloudflare.com
+biz=https://barely-filter-risks-revised.trycloudflare.com
 backup2=https://booth-gas-gives-narrow.trycloudflare.com
 backup3=https://offshore-dans-mhz-science.trycloudflare.com
 backup4=https://replica-band-confidentiality-researcher.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://neo-negotiation-shakespeare-technological.trycloudflare.com
 backup1=https://pee-thinking-licence-tax.trycloudflare.com
 backup=https://newest-cocktail-indiana-crown.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 00:16:21
+updated=2026-11-01 01:56:59

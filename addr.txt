@@ -1,4 +1,4 @@
-biz=https://nextel-depend-urban-holding.trycloudflare.com
+biz=https://generous-resources-ear-epic.trycloudflare.com
 backup2=https://schedules-partly-attribute-rob.trycloudflare.com
 backup3=https://flyer-viewpicture-rome-display.trycloudflare.com
 backup4=https://roy-avatar-handy-humanity.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://baltimore-dates-density-works.trycloudflare.com
 backup1=https://electoral-sir-discs-respectively.trycloudflare.com
 backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 10:24:06
+updated=2026-11-01 10:26:09

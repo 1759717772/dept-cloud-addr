@@ -1,4 +1,4 @@
-biz=https://tend-libs-kingdom-taylor.trycloudflare.com
+biz=https://rouge-threshold-furnishings-postage.trycloudflare.com
 backup2=https://external-chips-lane-sheer.trycloudflare.com
 backup3=https://laws-offers-pill-dialog.trycloudflare.com
 backup4=https://cult-eds-test-hdtv.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://cuisine-coupon-vhs-radar.trycloudflare.com
 backup1=https://films-singles-python-guys.trycloudflare.com
 backup=https://newest-cocktail-indiana-crown.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 00:14:38
+updated=2026-11-01 00:16:21

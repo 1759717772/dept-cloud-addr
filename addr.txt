@@ -1,4 +1,4 @@
-biz=https://generous-resources-ear-epic.trycloudflare.com
+biz=https://suited-hazardous-concerned-calibration.trycloudflare.com
 backup2=https://restrict-chuck-listing-ways.trycloudflare.com
 backup3=https://carey-sharing-accomplish-executives.trycloudflare.com
 backup4=https://comply-intervals-mold-essence.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://texas-manuals-mozilla-episode.trycloudflare.com
 backup1=https://boutique-courses-row-childrens.trycloudflare.com
 backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 10:26:09
+updated=2026-11-01 12:07:39

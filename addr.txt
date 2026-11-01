@@ -1,5 +1,5 @@
 biz=https://dramatically-rely-wool-univ.trycloudflare.com
-backup2=https://both-lime-mercury-accomplished.trycloudflare.com
+backup2=https://celebrity-product-innovations-makeup.trycloudflare.com
 backup3=https://gentleman-for-particularly-newest.trycloudflare.com
 backup4=https://modify-graphs-intl-robots.trycloudflare.com
 backup5=https://ceiling-blank-occasions-legislative.trycloudflare.com

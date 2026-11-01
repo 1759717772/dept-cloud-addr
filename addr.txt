@@ -1,4 +1,4 @@
-biz=https://feedback-reload-leon-ice.trycloudflare.com
+biz=https://monitors-workers-reached-manufacture.trycloudflare.com
 backup2=https://not-shorter-monitors-league.trycloudflare.com
 backup3=https://copies-jennifer-britannica-characterized.trycloudflare.com
 backup4=https://tutorial-responsible-improvement-creating.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://rss-random-orlando-lauren.trycloudflare.com
 backup1=https://arrivals-demand-yacht-accept.trycloudflare.com
 backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 08:38:47
+updated=2026-11-01 08:42:50

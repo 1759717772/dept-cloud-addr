@@ -1,4 +1,4 @@
-biz=https://simulation-afterwards-appliances-institutions.trycloudflare.com
+biz=https://math-five-doing-generous.trycloudflare.com
 backup2=https://collar-pills-lookup-weblogs.trycloudflare.com
 backup3=https://herbal-radio-voices-incorporate.trycloudflare.com
 backup4=https://wednesday-closer-ridge-combat.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://conversion-proc-tariff-shoppers.trycloudflare.com
 backup1=https://busy-perfectly-undertaken-someone.trycloudflare.com
 backup=https://occasions-elect-one-largest.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 05:07:38
+updated=2026-11-01 05:10:18

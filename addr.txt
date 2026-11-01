@@ -1,5 +1,5 @@
 biz=https://path-silent-possess-specified.trycloudflare.com
-backup2=https://sql-consistently-suspected-grades.trycloudflare.com
+backup2=https://beverage-roller-pal-quarterly.trycloudflare.com
 backup3=https://observer-established-marvel-spies.trycloudflare.com
 backup4=https://tune-requesting-static-applies.trycloudflare.com
 backup5=https://mary-wav-prices-officers.trycloudflare.com

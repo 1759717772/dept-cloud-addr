@@ -59,20 +59,7 @@ jobs:
           tail -199 "$LOG" > "$LOG.tmp" 2>/dev/null || true
           printf '%s | code=%s | ver=%s | %s\n' "$NOW" "$CODE" "$VER" "$URL" >> "$LOG.tmp"
           mv "$LOG.tmp" "$LOG"
-          python3 - "$CODE" <<'EOF'
-import json, sys, os
-code = sys.argv[1]
-p = 'status-2nd.json'
-d = {}
-if os.path.exists(p):
-    try: d = json.load(open(p))
-    except Exception: d = {}
-d['checked_at'] = os.environ.get('NOW','')
-d['last_code'] = code
-d['url'] = os.environ.get('URL','')
-d['version'] = os.environ.get('VER','')
-json.dump(d, open(p,'w'), ensure_ascii=False, indent=2)
-EOF
+          printf '{\n  "checked_at": "%s",\n  "last_code": "%s",\n  "url": "%s",\n  "version": "%s"\n}\n' "$NOW" "$CODE" "$URL" "$VER" > status-2nd.json
           git config user.name "dept-cloud-keepalive"
           git config user.email "dept-cloud@users.noreply.github.com"
           git add "$LOG" status-2nd.json

@@ -1,4 +1,4 @@
-biz=https://airline-accounts-approx-attending.trycloudflare.com
+biz=https://dramatically-rely-wool-univ.trycloudflare.com
 backup2=https://both-lime-mercury-accomplished.trycloudflare.com
 backup3=https://gentleman-for-particularly-newest.trycloudflare.com
 backup4=https://modify-graphs-intl-robots.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://spyware-douglas-rely-withdrawal.trycloudflare.com
 backup1=https://concerned-intervals-critical-throws.trycloudflare.com
 backup=https://occasions-elect-one-largest.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 03:20:34
+updated=2026-11-01 03:23:41

@@ -1,4 +1,4 @@
-biz=https://supporting-supervisor-several-tribunal.trycloudflare.com
+biz=https://enquiry-sec-framed-rapids.trycloudflare.com
 backup2=https://cultures-tunnel-solo-recording.trycloudflare.com
 backup3=https://deal-davis-advertise-thus.trycloudflare.com
 backup4=https://constraints-chart-artificial-coupled.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://walk-pros-castle-lawn.trycloudflare.com
 backup1=https://producers-living-respect-resort.trycloudflare.com
 backup=https://sort-laura-dept-holdem.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 06:54:23
+updated=2026-11-01 06:57:00

@@ -6,6 +6,6 @@ backup5=https://venice-extend-floors-sure.trycloudflare.com
 backup6=https://gotten-europe-dept-removal.trycloudflare.com
 biz2=https://ace-image-pace-scientist.trycloudflare.com
 backup1=https://seafood-heather-gui-behind.trycloudflare.com
-backup=https://sort-laura-dept-holdem.trycloudflare.com
+backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
 updated=2026-11-01 06:57:00

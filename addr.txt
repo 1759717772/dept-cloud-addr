@@ -1,4 +1,4 @@
-biz=https://charms-markers-metres-meters.trycloudflare.com
+biz=https://orientation-ruth-fiscal-journal.trycloudflare.com
 backup2=https://poll-beginning-tales-lean.trycloudflare.com
 backup3=https://seek-enormous-mario-pack.trycloudflare.com
 backup4=https://aspect-selecting-consequently-calculation.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://obvious-scanning-cgi-files.trycloudflare.com
 backup1=https://authority-seq-displaying-montgomery.trycloudflare.com
 backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 13:01:20
+updated=2026-11-01 14:43:11

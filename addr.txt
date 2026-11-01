@@ -1,4 +1,4 @@
-biz=https://pillow-pee-confidential-brussels.trycloudflare.com
+biz=https://path-silent-possess-specified.trycloudflare.com
 backup2=https://sql-consistently-suspected-grades.trycloudflare.com
 backup3=https://lean-relay-newport-vacations.trycloudflare.com
 backup4=https://rip-split-core-coverage.trycloudflare.com
@@ -9,4 +9,4 @@ backup1=https://valuable-council-sender-hobby.trycloudflare.com
 backup=https://disciplines-strategies-equations-active.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 18:04:45
+updated=2026-11-01 19:46:41

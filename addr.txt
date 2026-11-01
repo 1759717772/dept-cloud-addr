@@ -1,4 +1,4 @@
-biz=https://kept-excess-promising-feof.trycloudflare.com
+biz=https://pillow-pee-confidential-brussels.trycloudflare.com
 backup2=https://previews-fought-shine-bunch.trycloudflare.com
 backup3=https://disco-basketball-floating-foster.trycloudflare.com
 backup4=https://murray-oriental-carpet-clothing.trycloudflare.com
@@ -9,4 +9,4 @@ backup1=https://physically-bundle-during-someone.trycloudflare.com
 backup=https://disciplines-strategies-equations-active.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 16:23:43
+updated=2026-11-01 18:04:45

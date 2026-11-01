@@ -1,4 +1,4 @@
-biz=https://path-silent-possess-specified.trycloudflare.com
+biz=https://nasa-handmade-behaviour-anonymous.trycloudflare.com
 backup2=https://beverage-roller-pal-quarterly.trycloudflare.com
 backup3=https://observer-established-marvel-spies.trycloudflare.com
 backup4=https://tune-requesting-static-applies.trycloudflare.com
@@ -9,4 +9,4 @@ backup1=https://month-pets-booth-utils.trycloudflare.com
 backup=https://walk-corp-approved-according.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 19:46:41
+updated=2026-11-01 21:27:11

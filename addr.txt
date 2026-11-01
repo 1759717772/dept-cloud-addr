@@ -1,4 +1,4 @@
-biz=https://monitors-workers-reached-manufacture.trycloudflare.com
+biz=https://nextel-depend-urban-holding.trycloudflare.com
 backup2=https://enclosure-test-mills-enough.trycloudflare.com
 backup3=https://copies-jennifer-britannica-characterized.trycloudflare.com
 backup4=https://roy-avatar-handy-humanity.trycloudflare.com
@@ -8,4 +8,4 @@ biz2=https://rss-random-orlando-lauren.trycloudflare.com
 backup1=https://arrivals-demand-yacht-accept.trycloudflare.com
 backup=https://mirror-households-detection-buildings.trycloudflare.com
 version=8.6.0
-updated=2026-11-01 08:42:50
+updated=2026-11-01 10:24:06

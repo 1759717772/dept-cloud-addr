@@ -1,4 +1,4 @@
-biz=https://showtimes-cliff-prisoners-diy.trycloudflare.com
+biz=https://inf-infinite-poly-subsection.trycloudflare.com
 backup2=https://ruling-gender-greeting-ontario.trycloudflare.com
 backup3=https://restructuring-quarter-hart-dangerous.trycloudflare.com
 backup4=https://lol-rna-jefferson-bloom.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://fixes-colleague-sanyo-ties.trycloudflare.com
 backup=https://responsibilities-stage-density-machine.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-02 19:42:44
+updated=2026-11-02 21:10:58
 apk_version=8.5.3
 apk_url=https://aka.doubaocdn.com/s/ztB15UuU37
 apk_force=1

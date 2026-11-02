@@ -1,4 +1,4 @@
-biz=https://server-occupied-inquiry-education.trycloudflare.com
+biz=https://growth-journalism-rush-batteries.trycloudflare.com
 backup2=https://marilyn-guides-light-butterfly.trycloudflare.com
 backup3=https://application-accommodation-permalink-cooper.trycloudflare.com
 backup4=https://goto-francisco-cute-versions.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://pilot-encouraged-saint-counsel.trycloudflare.com
 backup=https://monthly-edgar-home-pills.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-02 16:18:58
+updated=2026-11-02 17:59:49
 apk_version=8.5.3
 apk_url=https://aka.doubaocdn.com/s/ztB15UuU37
 apk_force=1

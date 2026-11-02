@@ -1,4 +1,4 @@
-biz=https://men-dress-winter-rewards.trycloudflare.com
+biz=https://suffering-quickly-episodes-polyester.trycloudflare.com
 backup2=https://hans-enb-shaw-thanks.trycloudflare.com
 backup3=https://forestry-angel-retired-shut.trycloudflare.com
 backup4=https://locally-humor-bestsellers-filing.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://steve-graduates-salvation-foundations.trycloudflare.com
 backup=https://monthly-edgar-home-pills.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-02 12:56:15
+updated=2026-11-02 14:37:53
 apk_version=8.5.1
 apk_url=https://github.com/1759717772/dept-cloud-addr/releases/download/v8.5.1/dept-system-v8.5.1-cloud.apk
 apk_force=1

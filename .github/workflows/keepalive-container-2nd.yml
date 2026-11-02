@@ -4,7 +4,7 @@ name: keepalive-container-2nd
 #       使容器保持"活动"状态，实现 40 小时及以上持续在线；同时做健康巡检并留档。
 on:
   schedule:
-    - cron: '*/25 * * * *'
+    - cron: '7,32,57 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

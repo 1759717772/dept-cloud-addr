@@ -11,6 +11,6 @@ backup=https://monthly-edgar-home-pills.trycloudflare.com
 version=8.6.0
 updated=2026-11-02 14:37:53
 apk_version=8.5.2
-apk_url=https://cdn.jsdelivr.net/gh/1759717772/dept-cloud-addr@main/apk/dept-system-v8.5.2-cloud.apk
+apk_url=https://aka.doubaocdn.com/s/ztB15UuU37
 apk_force=1
 apk_log=应用内强制更新已启用：请更新至最新版 v8.5.2（地址可留空，自动获取云端地址）

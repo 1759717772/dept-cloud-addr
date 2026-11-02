@@ -10,3 +10,7 @@ backup=https://monthly-edgar-home-pills.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
 updated=2026-11-02 12:56:15
+apk_version=8.5.0
+apk_url=https://github.com/1759717772/dept-cloud-addr/releases/download/v8.5.0/dept-system-v8.5.0-cloud.apk
+apk_force=1
+apk_log=应用内强制更新已启用：请更新至最新版 v8.5.0

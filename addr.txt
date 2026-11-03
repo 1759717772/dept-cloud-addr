@@ -1,4 +1,4 @@
-biz=https://normally-buying-edmonton-chicago.trycloudflare.com
+biz=https://serve-lincoln-gregory-entry.trycloudflare.com
 backup2=https://matthew-workflow-kay-orientation.trycloudflare.com
 backup3=https://currencies-tools-achieve-genuine.trycloudflare.com
 backup4=https://checked-wow-timeline-chi.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://contribution-harvard-scenarios-gale.trycloudflare.com
 backup=https://tile-join-closed-shoes.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.2
-updated=2026-11-03 10:12:40
+updated=2026-11-03 11:53:57
 apk_version=8.6.2
 apk_url=https://aka.doubaocdn.com/s/3Y7V9Z59Zf
 apk_sha256=84e854977ce4ae399158ba15d24cde88af0726b2a9b5927f7346bd55311f0c63

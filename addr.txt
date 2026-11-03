@@ -1,4 +1,4 @@
-biz=https://normally-buying-edmonton-chicago.trycloudflare.com
+biz=https://ranks-joining-stats-darwin.trycloudflare.com
 backup2=https://remove-gives-wider-recruitment.trycloudflare.com
 backup3=https://currencies-tools-achieve-genuine.trycloudflare.com
 backup4=https://tracks-engaging-everywhere-plastics.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://amongst-governmental-pearl-developing.trycloudflare.com
 backup=https://tile-join-closed-shoes.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.3
-updated=2026-11-03 20:09:47
+updated=2026-11-03 13:36:01
 apk_version=8.6.3
 apk_url=https://aka.doubaocdn.com/s/cfbJ8SwIDr
 apk_sha256=cab38b2807d38190f0b2bee123f18127ab1d4f7f79a3418bb3449cf24808bed9

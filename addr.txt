@@ -1,5 +1,5 @@
 biz=https://noble-wins-decades-dear.trycloudflare.com
-backup2=https://mixed-tax-sing-icq.trycloudflare.com
+backup2=https://restricted-bug-indie-zoo.trycloudflare.com
 backup3=https://optimal-produced-christ-cherry.trycloudflare.com
 backup4=https://enb-recovered-worship-extract.trycloudflare.com
 backup5=https://compliant-secondary-nat-suites.trycloudflare.com

@@ -1,4 +1,4 @@
-biz=https://noble-wins-decades-dear.trycloudflare.com
+biz=https://fraction-valium-rehab-fabric.trycloudflare.com
 backup2=https://restricted-bug-indie-zoo.trycloudflare.com
 backup3=https://females-organic-realized-containing.trycloudflare.com
 backup4=https://glenn-cooperative-placing-merchant.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://identity-boring-provisions-state.trycloudflare.com
 backup=https://locale-nuclear-according-hopefully.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-03 02:15:43
+updated=2026-11-03 03:26:59
 apk_version=8.6.0
 apk_url=https://aka.doubaocdn.com/s/g1UKDptRCB
 apk_force=1

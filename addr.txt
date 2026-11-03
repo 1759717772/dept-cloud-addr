@@ -1,5 +1,5 @@
 biz=https://fraction-valium-rehab-fabric.trycloudflare.com
-backup2=https://restricted-bug-indie-zoo.trycloudflare.com
+backup2=https://contracting-ticket-allow-singing.trycloudflare.com
 backup3=https://females-organic-realized-containing.trycloudflare.com
 backup4=https://glenn-cooperative-placing-merchant.trycloudflare.com
 backup5=https://compliant-secondary-nat-suites.trycloudflare.com

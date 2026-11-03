@@ -1,4 +1,4 @@
-biz=https://starring-continent-ways-feeds.trycloudflare.com
+biz=https://heights-husband-rating-allergy.trycloudflare.com
 backup2=https://emerging-getting-facial-edt.trycloudflare.com
 backup3=https://mechanism-object-raleigh-disk.trycloudflare.com
 backup4=https://commitment-printers-magazine-districts.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://dts-migration-motorola-refrigerator.trycloudflare.com
 backup=https://integral-victor-checking-unsigned.trycloudflare.com
 2nd=https://convicted-eight-climbing-knowing.trycloudflare.com
 version=8.7.0
-updated=2026-11-03 18:39:52
+updated=2026-11-03 20:22:02
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

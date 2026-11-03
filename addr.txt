@@ -1,4 +1,4 @@
-biz=https://restrictions-headphones-asthma-utilization.trycloudflare.com
+biz=https://lanes-blah-however-waterproof.trycloudflare.com
 backup2=https://interaction-gsm-chargers-stores.trycloudflare.com
 backup3=https://plug-wishes-bonus-bookmarks.trycloudflare.com
 backup4=https://automobile-lottery-turns-stat.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://inbox-findarticles-burlington-accent.trycloudflare.com
 backup=https://integral-victor-checking-unsigned.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.5
-updated=2026-11-03 23:20:00
+updated=2026-11-03 16:58:49
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

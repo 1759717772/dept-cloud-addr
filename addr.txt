@@ -8,11 +8,11 @@ biz2=https://pam-future-keyword-lending.trycloudflare.com
 backup1=https://reasons-collectible-downloadable-merely.trycloudflare.com
 backup=https://tile-join-closed-shoes.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
-version=8.6.3
-updated=2026-11-03 13:36:01
-apk_version=8.6.3
-apk_url=https://aka.doubaocdn.com/s/cfbJ8SwIDr
-apk_sha256=cab38b2807d38190f0b2bee123f18127ab1d4f7f79a3418bb3449cf24808bed9
+version=8.6.4
+updated=2026-11-03 22:11:13
+apk_version=8.6.4
+apk_url=https://aka.doubaocdn.com/s/bEbhNHO104
+apk_sha256=421099925c7ce952dea7027983265897ccf262513654751d43a93bcd427f031a
 apk_force=1
-apk_log=应用内强制更新已启用：请更新至 v8.6.3（动态证书验证：多pin集合+策略动态下发+过期自愈+失败上报）
+apk_log=应用内强制更新已启用：请更新至 v8.6.4（更新下载进度条与安装包落位提示；后台连接服务器分阶段反馈）
 pins=v1;expire=2026-12-01T00:00:00Z;aka.doubaocdn.com=fbbc1926ecd81729a0ccc27a2e78878b3a648e8991262c5327342df1298f1426;ghfast.top=72b4005c9018e35858c1599021fdbe3f4aa2cd916db89deb6435b23792211abe;gh-proxy.com=26eddb8c11c20d441c09748b4bab1d7e7a035eb96083622e2261382f5e48ee14;ghproxy.net=aec6a445f527a1d23047894e6d76be1d03d52f193afee0292f9b35fccbcb9ece;raw.githubusercontent.com=94db9ac7d44da25f17c751844eeafd7eb8d7b7e8629ac64708b28e8229ef172c;1759717772.github.io=94db9ac7d44da25f17c751844eeafd7eb8d7b7e8629ac64708b28e8229ef172c;cdn.jsdelivr.net=31c6519094d4adab1738d7ae5627fcf3941c21f920c50ca94e4a18ebd3b5e311

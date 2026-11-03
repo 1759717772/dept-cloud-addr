@@ -1,4 +1,4 @@
-biz=https://shakira-tagged-shipment-hottest.trycloudflare.com
+biz=https://terry-broken-italiano-conferences.trycloudflare.com
 backup2=https://fails-tutorials-mate-strange.trycloudflare.com
 backup3=https://market-encoding-expenses-simple.trycloudflare.com
 backup4=https://combat-magnet-parents-strengths.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://organizing-diana-utils-hopefully.trycloudflare.com
 backup=https://fragrance-adopted-reducing-surge.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-03 06:50:11
+updated=2026-11-03 08:32:03
 apk_version=8.6.0
 apk_url=https://aka.doubaocdn.com/s/g1UKDptRCB
 apk_force=1

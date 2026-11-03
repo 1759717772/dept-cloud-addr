@@ -1,4 +1,4 @@
-biz=https://terms-discrimination-already-fantastic.trycloudflare.com
+biz=https://congratulations-experimental-photographic-optimal.trycloudflare.com
 backup2=https://portrait-once-spam-biographies.trycloudflare.com
 backup3=https://atlas-ericsson-prints-poker.trycloudflare.com
 backup4=https://breeding-alert-nickname-recognized.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://climb-verse-wing-kitty.trycloudflare.com
 backup=https://responsibilities-stage-density-machine.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.0
-updated=2026-11-02 22:52:50
+updated=2026-11-03 00:33:46
 apk_version=8.5.3
 apk_url=https://aka.doubaocdn.com/s/ztB15UuU37
 apk_force=1

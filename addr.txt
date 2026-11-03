@@ -1,4 +1,4 @@
-biz=https://ranks-joining-stats-darwin.trycloudflare.com
+biz=https://restrictions-headphones-asthma-utilization.trycloudflare.com
 backup2=https://southeast-insulation-belle-intimate.trycloudflare.com
 backup3=https://assuming-fin-revision-compatible.trycloudflare.com
 backup4=https://athletic-interact-accomplished-face.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://reasons-collectible-downloadable-merely.trycloudflare.com
 backup=https://tile-join-closed-shoes.trycloudflare.com
 2nd=https://blend-suggest-programs-celebration.trycloudflare.com
 version=8.6.4
-updated=2026-11-03 22:11:13
+updated=2026-11-03 15:17:22
 apk_version=8.6.4
 apk_url=https://aka.doubaocdn.com/s/bEbhNHO104
 apk_sha256=421099925c7ce952dea7027983265897ccf262513654751d43a93bcd427f031a

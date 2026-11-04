@@ -1,4 +1,4 @@
-biz=https://periodic-disabled-fifty-earnings.trycloudflare.com
+biz=https://performance-controller-car-pioneer.trycloudflare.com
 backup2=https://eve-genetics-associated-sapphire.trycloudflare.com
 backup3=https://money-women-respect-investigations.trycloudflare.com
 backup4=https://eligible-trading-replacing-sandra.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://synthetic-simplified-realty-demands.trycloudflare.com
 backup=https://sporting-dui-ppm-generator.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.7.0
-updated=2026-11-04 13:05:39
+updated=2026-11-04 14:47:10
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

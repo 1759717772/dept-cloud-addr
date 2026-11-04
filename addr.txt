@@ -1,4 +1,4 @@
-biz=https://edge-pos-notification-mature.trycloudflare.com
+biz=https://periodic-disabled-fifty-earnings.trycloudflare.com
 backup2=https://project-via-lamp-feel.trycloudflare.com
 backup3=https://money-women-respect-investigations.trycloudflare.com
 backup4=https://actual-highlights-saint-respected.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://couples-nutten-undertake-scout.trycloudflare.com
 backup=https://sporting-dui-ppm-generator.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.7.0
-updated=2026-11-04 20:32:58
+updated=2026-11-04 13:05:39
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

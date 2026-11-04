@@ -1,4 +1,4 @@
-biz=https://patrick-wrap-issue-bible.trycloudflare.com
+biz=https://straight-decade-limit-theatre.trycloudflare.com
 backup2=https://librarian-collapse-album-measuring.trycloudflare.com
 backup3=https://estimate-dvd-freebsd-expression.trycloudflare.com
 backup4=https://holding-vintage-testimony-expires.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://marion-restoration-guidelines-reporter.trycloudflare.com
 backup=https://served-fishing-dancing-sized.trycloudflare.com
 2nd=https://convicted-eight-climbing-knowing.trycloudflare.com
 version=8.5.0
-updated=2026-11-04 03:05:54
+updated=2026-11-04 03:28:31
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

@@ -1,4 +1,4 @@
-biz=https://borders-put-autos-jerusalem.trycloudflare.com
+biz=https://distribution-consecutive-weather-generating.trycloudflare.com
 backup2=https://sample-caused-stem-initiated.trycloudflare.com
 backup3=https://compete-developing-expenditures-flow.trycloudflare.com
 backup4=https://nationally-violin-sensor-ottawa.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://calling-cave-gray-bride.trycloudflare.com
 backup=https://rouge-fathers-mode-pci.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-04 17:51:33
+updated=2026-11-04 18:14:03
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

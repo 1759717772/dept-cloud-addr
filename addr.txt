@@ -1,4 +1,4 @@
-biz=https://badge-freeze-granted-referrals.trycloudflare.com
+biz=https://gasoline-scholarships-adjust-prayer.trycloudflare.com
 backup2=https://propose-cope-decades-known.trycloudflare.com
 backup3=https://borders-dean-efficiency-knew.trycloudflare.com
 backup4=https://electrical-melissa-fields-puzzle.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://local-logic-humans-worm.trycloudflare.com
 backup=https://rouge-fathers-mode-pci.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-04 20:57:16
+updated=2026-11-04 22:54:51
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

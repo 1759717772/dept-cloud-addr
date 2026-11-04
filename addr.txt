@@ -1,4 +1,4 @@
-biz=https://renewal-ram-ringtones-watt.trycloudflare.com
+biz=https://prince-thanksgiving-bid-libs.trycloudflare.com
 backup2=https://provincial-chorus-somerset-ons.trycloudflare.com
 backup3=https://diamond-fisheries-staff-miniature.trycloudflare.com
 backup4=https://struct-crowd-souls-academy.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://solved-reveal-cuisine-insured.trycloudflare.com
 backup=https://served-fishing-dancing-sized.trycloudflare.com
 2nd=https://convicted-eight-climbing-knowing.trycloudflare.com
 version=8.5.0
-updated=2026-11-03 23:44:42
+updated=2026-11-04 01:25:16
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

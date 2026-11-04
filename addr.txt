@@ -1,5 +1,5 @@
 biz=https://badge-freeze-granted-referrals.trycloudflare.com
-backup2=https://prague-fun-supports-tribunal.trycloudflare.com
+backup2=https://propose-cope-decades-known.trycloudflare.com
 backup3=https://having-hart-jail-wanted.trycloudflare.com
 backup4=https://sox-goat-qualification-appeals.trycloudflare.com
 backup5=https://ideas-announcement-mile-activated.trycloudflare.com

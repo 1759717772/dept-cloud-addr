@@ -1,4 +1,4 @@
-biz=https://durham-achievements-powell-wav.trycloudflare.com
+biz=https://edge-pos-notification-mature.trycloudflare.com
 backup2=https://poker-infant-dui-hazardous.trycloudflare.com
 backup3=https://money-women-respect-investigations.trycloudflare.com
 backup4=https://devon-granted-eugene-instructor.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://scoring-surrey-foods-arrangement.trycloudflare.com
 backup=https://sporting-dui-ppm-generator.trycloudflare.com
 2nd=https://convicted-eight-climbing-knowing.trycloudflare.com
 version=8.5.0
-updated=2026-11-04 09:53:35
+updated=2026-11-04 11:23:51
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

@@ -1,6 +1,6 @@
 biz=https://borders-put-autos-jerusalem.trycloudflare.com
 backup2=https://sample-caused-stem-initiated.trycloudflare.com
-backup3=https://fell-quickly-applying-anna.trycloudflare.com
+backup3=https://compete-developing-expenditures-flow.trycloudflare.com
 backup4=https://nationally-violin-sensor-ottawa.trycloudflare.com
 backup5=https://lounge-fool-break-glen.trycloudflare.com
 backup6=https://twisted-venues-vendors-links.trycloudflare.com

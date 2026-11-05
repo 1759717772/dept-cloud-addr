@@ -1,4 +1,4 @@
-biz=https://railroad-analyzed-aud-wav.trycloudflare.com
+biz=https://duties-during-transmitted-neighbor.trycloudflare.com
 backup2=https://baking-gif-wisdom-december.trycloudflare.com
 backup3=https://begun-psp-legendary-strikes.trycloudflare.com
 backup4=https://diet-registered-tires-offline.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://immediately-championships-easy-hip.trycloudflare.com
 backup=https://stability-laptop-easier-demonstrates.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-04 23:25:35
+updated=2026-11-05 03:07:03
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

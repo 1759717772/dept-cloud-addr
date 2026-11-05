@@ -1,5 +1,5 @@
 biz=https://cruz-thirty-dish-local.trycloudflare.com
-backup2=https://tablet-estimation-tours-gourmet.trycloudflare.com
+backup2=https://rush-jurisdiction-cook-merely.trycloudflare.com
 backup3=https://obituaries-bunny-diving-republic.trycloudflare.com
 backup4=https://olympics-laura-combined-talented.trycloudflare.com
 backup5=https://terrorism-tea-guidelines-pac.trycloudflare.com

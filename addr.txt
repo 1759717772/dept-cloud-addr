@@ -1,4 +1,4 @@
-biz=https://jail-syntax-miller-tuner.trycloudflare.com
+biz=https://cruz-thirty-dish-local.trycloudflare.com
 backup2=https://tablet-estimation-tours-gourmet.trycloudflare.com
 backup3=https://seven-shirts-quantum-eyes.trycloudflare.com
 backup4=https://motors-howard-reflect-shakespeare.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://bringing-authorization-sides-diary.trycloudflare.com
 backup=https://dollars-joan-baseball-catering.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-05 15:33:19
+updated=2026-11-05 17:14:56
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

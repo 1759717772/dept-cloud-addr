@@ -1,4 +1,4 @@
-biz=https://desktops-amd-vast-clarke.trycloudflare.com
+biz=https://engine-designer-temperature-hiring.trycloudflare.com
 backup2=https://usually-output-infrastructure-scores.trycloudflare.com
 backup3=https://ensure-found-corner-football.trycloudflare.com
 backup4=https://pubs-perfect-exam-fitting.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://bbs-wider-firms-derby.trycloudflare.com
 backup=https://difficulty-pin-controller-oakland.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-05 22:18:20
+updated=2026-11-05 23:58:55
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

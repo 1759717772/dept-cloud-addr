@@ -1,4 +1,4 @@
-biz=https://cruz-thirty-dish-local.trycloudflare.com
+biz=https://presentation-organizing-bedford-increasing.trycloudflare.com
 backup2=https://rush-jurisdiction-cook-merely.trycloudflare.com
 backup3=https://obituaries-bunny-diving-republic.trycloudflare.com
 backup4=https://olympics-laura-combined-talented.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://relief-sacramento-compiler-long.trycloudflare.com
 backup=https://difficulty-pin-controller-oakland.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-05 17:14:56
+updated=2026-11-05 18:55:33
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

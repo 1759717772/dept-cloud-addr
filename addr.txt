@@ -1,5 +1,5 @@
 biz=https://desktops-amd-vast-clarke.trycloudflare.com
-backup2=https://collaborative-url-theoretical-guests.trycloudflare.com
+backup2=https://usually-output-infrastructure-scores.trycloudflare.com
 backup3=https://ensure-found-corner-football.trycloudflare.com
 backup4=https://pubs-perfect-exam-fitting.trycloudflare.com
 backup5=https://initially-fog-supervisor-strips.trycloudflare.com

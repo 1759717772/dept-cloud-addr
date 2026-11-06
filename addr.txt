@@ -1,4 +1,4 @@
-biz=https://correction-mayor-programs-entrance.trycloudflare.com
+biz=https://signal-armed-processed-amsterdam.trycloudflare.com
 backup2=https://advocate-oops-comfort-webshots.trycloudflare.com
 backup3=https://remote-auburn-treasures-project.trycloudflare.com
 backup4=https://desire-riding-universal-frankfurt.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://past-cleanup-harvest-are.trycloudflare.com
 backup=https://mini-along-accurately-trinity.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-06 07:12:49
+updated=2026-11-06 12:44:22
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

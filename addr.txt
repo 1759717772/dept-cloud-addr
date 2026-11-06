@@ -1,4 +1,4 @@
-biz=https://postage-promote-sailing-elements.trycloudflare.com
+biz=https://conventions-letting-dealers-pools.trycloudflare.com
 backup2=https://presidential-speaker-kde-brush.trycloudflare.com
 backup3=https://stockings-joe-list-richard.trycloudflare.com
 backup4=https://niagara-revision-created-inbox.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://forever-explained-playback-referrals.trycloudflare.com
 backup=https://valuable-gst-tall-patricia.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-06 15:09:35
+updated=2026-11-06 19:50:27
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

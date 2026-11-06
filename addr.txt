@@ -1,4 +1,4 @@
-biz=https://teddy-interact-vermont-xbox.trycloudflare.com
+biz=https://laptops-tales-reduction-monitors.trycloudflare.com
 backup2=https://searching-bali-sponsorship-hansen.trycloudflare.com
 backup3=https://earth-rio-fitted-metres.trycloudflare.com
 backup4=https://kept-peak-olympic-venice.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://considered-asn-kim-keywords.trycloudflare.com
 backup=https://mini-along-accurately-trinity.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-06 05:01:04
+updated=2026-11-06 06:41:33
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

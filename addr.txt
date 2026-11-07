@@ -1,4 +1,4 @@
-biz=https://ronald-transaction-practice-upload.trycloudflare.com
+biz=https://champions-services-television-economy.trycloudflare.com
 backup2=https://rabbit-satisfaction-enhanced-lighter.trycloudflare.com
 backup3=https://temperatures-wrap-naples-conclude.trycloudflare.com
 backup4=https://leon-ohio-plenty-sagem.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://fundamentals-academy-dated-aurora.trycloudflare.com
 backup=https://registration-office-consequence-hall.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-07 09:38:45
+updated=2026-11-07 11:20:05
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

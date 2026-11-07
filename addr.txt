@@ -1,4 +1,4 @@
-biz=https://millennium-sections-reason-what.trycloudflare.com
+biz=https://manually-thousand-uniprotkb-pdas.trycloudflare.com
 backup2=https://arising-ways-challenges-keeps.trycloudflare.com
 backup3=https://railway-bull-hair-better.trycloudflare.com
 backup4=https://stock-guru-production-dsc.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://gamecube-specialty-arrangement-distribution.trycloudflare.com
 backup=https://integration-photographers-maintained-admitted.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-07 03:20:42
+updated=2026-11-07 05:01:17
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

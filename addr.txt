@@ -1,4 +1,4 @@
-biz=https://mathematics-alice-blue-sql.trycloudflare.com
+biz=https://surgical-encountered-gentle-metres.trycloudflare.com
 backup2=https://parks-responses-pack-hawaii.trycloudflare.com
 backup3=https://montgomery-behavior-textbooks-should.trycloudflare.com
 backup4=https://cuisine-actions-graphical-analyze.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://aberdeen-advocacy-motorcycles-file.trycloudflare.com
 backup=https://chances-adam-douglas-trim.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-08 00:36:43
+updated=2026-11-08 03:20:50
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

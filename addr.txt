@@ -1,5 +1,5 @@
 biz=https://pty-further-meter-boxing.trycloudflare.com
-backup2=https://informed-gourmet-macintosh-loads.trycloudflare.com
+backup2=https://adjust-seekers-block-colors.trycloudflare.com
 backup3=https://concord-soldiers-him-gone.trycloudflare.com
 backup4=https://par-enabled-obtained-encourages.trycloudflare.com
 backup5=https://shoppers-merchants-maple-blair.trycloudflare.com

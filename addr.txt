@@ -1,4 +1,4 @@
-biz=https://consecutive-belts-poem-elizabeth.trycloudflare.com
+biz=https://wool-villas-born-both.trycloudflare.com
 backup2=https://nil-tech-kind-partner.trycloudflare.com
 backup3=https://jonathan-lawsuit-trademarks-conflict.trycloudflare.com
 backup4=https://cork-arrives-determination-cedar.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://zip-playback-electoral-facts.trycloudflare.com
 backup=https://chances-adam-douglas-trim.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-07 22:29:37
+updated=2026-11-08 00:11:05
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

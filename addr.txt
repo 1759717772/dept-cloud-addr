@@ -1,6 +1,6 @@
 biz=https://export-cube-mirror-approximate.trycloudflare.com
 backup2=https://memphis-workforce-tall-anatomy.trycloudflare.com
-backup3=https://speak-accounts-utilize-implies.trycloudflare.com
+backup3=https://third-locks-menu-tub.trycloudflare.com
 backup4=https://tell-full-making-gray.trycloudflare.com
 backup5=https://remind-catalog-operator-hugh.trycloudflare.com
 backup6=https://ambient-switched-facilitate-explain.trycloudflare.com

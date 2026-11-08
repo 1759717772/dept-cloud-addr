@@ -1,4 +1,4 @@
-biz=https://convenient-mesa-ips-fairy.trycloudflare.com
+biz=https://perth-refine-machinery-proceeding.trycloudflare.com
 backup2=https://lightweight-biography-cash-writings.trycloudflare.com
 backup3=https://concord-soldiers-him-gone.trycloudflare.com
 backup4=https://foundation-differential-printed-transcript.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://visits-guidelines-regular-reply.trycloudflare.com
 backup=https://weekends-dan-accomplished-informative.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-08 13:13:19
+updated=2026-11-08 14:55:10
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

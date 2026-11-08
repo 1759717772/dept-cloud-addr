@@ -1,5 +1,5 @@
 biz=https://intranet-utc-airports-triangle.trycloudflare.com
-backup2=https://chain-cant-rings-elevation.trycloudflare.com
+backup2=https://quarterly-mean-communication-increases.trycloudflare.com
 backup3=https://movies-class-gates-alter.trycloudflare.com
 backup4=https://turn-rocks-optics-vegetables.trycloudflare.com
 backup5=https://maine-conference-vertex-ind.trycloudflare.com

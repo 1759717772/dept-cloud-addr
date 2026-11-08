@@ -1,4 +1,4 @@
-biz=https://intranet-utc-airports-triangle.trycloudflare.com
+biz=https://interview-readers-police-diary.trycloudflare.com
 backup2=https://quarterly-mean-communication-increases.trycloudflare.com
 backup3=https://movies-class-gates-alter.trycloudflare.com
 backup4=https://turn-rocks-optics-vegetables.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://cloth-promises-regulatory-location.trycloudflare.com
 backup=https://truck-korea-considerable-enrolled.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-08 18:23:06
+updated=2026-11-08 20:05:13
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

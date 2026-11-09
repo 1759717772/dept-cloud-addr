@@ -1,5 +1,5 @@
 biz=https://learning-folks-gpl-salem.trycloudflare.com
-backup2=https://nelson-toolbox-cathedral-primary.trycloudflare.com
+backup2=https://wagner-pci-beam-obviously.trycloudflare.com
 backup3=https://ste-inputs-diesel-much.trycloudflare.com
 backup4=https://nasa-dirt-bands-ooo.trycloudflare.com
 backup5=https://designer-danny-donate-garbage.trycloudflare.com

@@ -1,4 +1,4 @@
-biz=https://prior-rhode-scan-proposition.trycloudflare.com
+biz=https://situated-celtic-prizes-riverside.trycloudflare.com
 backup2=https://mazda-potential-announce-universe.trycloudflare.com
 backup3=https://intervals-static-bedroom-logan.trycloudflare.com
 backup4=https://again-decided-date-lines.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://apartment-thats-assigned-buzz.trycloudflare.com
 backup=https://precisely-hans-illinois-ranch.trycloudflare.com
 2nd=https://sit-certificate-brunswick-perfume.trycloudflare.com
 version=8.5.0
-updated=2026-11-08 23:27:33
+updated=2026-11-09 01:08:22
 apk_version=8.6.5
 apk_url=https://aka.doubaocdn.com/s/9VCVOvitAw
 apk_sha256=1c3d0cdb631dcf01383b44408026355f343c9c19b868224700fb0c0a905b59e2

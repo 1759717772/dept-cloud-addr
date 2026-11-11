@@ -92,35 +92,53 @@
     });
   }
 
-  function readBoard(i) {
-    var idx = i || 0;
-    if (idx >= BOARDS.length) return Promise.resolve('');
-    return readOne(BOARDS[idx])
-      .then(function (t) {
-        var re = /^(biz2|biz|2nd|backup\d?|tunnel)=(https?:\/\/\S+)/gm;
-        var m, all = [];
-        while ((m = re.exec(t)) !== null) all.push(m[2]);
-        if (!all.length) throw 0;
-        return { url: all[0], all: all };
-      })
-      .catch(function () { return readBoard(idx + 1); });
+  function parseBoard(t) {
+    var re = /^(biz2|biz|2nd|backup\d?|tunnel)=(https?:\/\/\S+)/gm;
+    var m, all = [];
+    while ((m = re.exec(t)) !== null) all.push(m[2]);
+    return all;
+  }
+
+  // [修复·公告牌旧缓存] 原实现只读第一个"能读通"的源就停：GitHub Pages 若滞后
+  // （构建排队几分钟），拿到的就是旧死链，后面的 raw/jsDelivr 根本不会被读。
+  // 改为全部源并发读、合并去重，任一源给出活地址都能被探测选中。
+  function readAllBoards() {
+    return Promise.all(BOARDS.map(function (u) {
+      return readOne(u).then(parseBoard).catch(function () { return []; });
+    })).then(function (arrs) {
+      var all = [];
+      arrs.forEach(function (a) {
+        a.forEach(function (u) { if (u && all.indexOf(u) < 0) all.push(u); });
+      });
+      return { url: all[0] || '', all: all };
+    });
   }
 
   function render(list) {
     var box = el('list');
     box.innerHTML = '';
+    var bad = 0;
+    // [修复] 用户明确说过"死链打不开还显示什么"——失效地址不再逐条列出，
+    // 只展示实测可用的，失效的合并成一行计数，避免把死链当成系统故障展示。
     list.forEach(function (p) {
+      if (!p.ok) { bad++; return; }
       var d = document.createElement('div');
-      d.innerHTML = (p.ok ? '<span class="ok">✓ 可用</span>' : '<span class="bad">✗ 不可用</span>')
-        + ' ' + p.url.replace('https://', '') + (p.version ? ' · v' + p.version : '') + ' (' + p.code + ')';
+      d.innerHTML = '<span class="ok">✓ 可用</span> ' + p.url.replace('https://', '')
+        + (p.version ? ' · v' + p.version : '') + ' (' + p.code + ')';
       box.appendChild(d);
     });
+    if (bad > 0) {
+      var n = document.createElement('div');
+      n.className = 'muted';
+      n.textContent = '（另有 ' + bad + ' 个历史失效地址已忽略）';
+      box.appendChild(n);
+    }
   }
 
   function run() {
     el('go').disabled = true;
     el('go').textContent = '正在检测…';
-    readBoard(0).then(function (b) {
+    readAllBoards().then(function (b) {
       var raw = (b && b.all && b.all.length) ? b.all.slice() : [];
       // [修复] 公告牌 CDN 可能是几分钟前的旧值（里面全是已死的 trycloudflare），
       // 必须把内置活地址一并并入候选，否则"公告牌读到了但读的是死链"→ 全部探测失败 → 打不开。

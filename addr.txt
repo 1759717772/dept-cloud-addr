@@ -1,6 +1,6 @@
 biz=https://f2797f54ca4b77.lhr.life
 backup2=https://f2797f54ca4b77.lhr.life
-backup3=https://f2797f54ca4b77.lhr.life
+backup3=https://scenarios-banana-pad-instant.trycloudflare.com
 backup4=https://f2797f54ca4b77.lhr.life
 backup5=https://f2797f54ca4b77.lhr.life
 backup6=https://f2797f54ca4b77.lhr.life

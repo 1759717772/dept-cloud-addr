@@ -1,4 +1,4 @@
-biz=https://little-context-lyrics-environmental.trycloudflare.com
+biz=https://curves-jewish-two-pointer.trycloudflare.com
 backup2=https://resulted-conservation-complications-salad.trycloudflare.com
 backup3=https://joshua-plane-amend-devoted.trycloudflare.com
 backup4=https://pdf-construct-ranges-diving.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://las-sought-hosted-remembered.trycloudflare.com
 backup=https://71bfaf2c181926.lhr.life
 2nd=https://71bfaf2c181926.lhr.life
 version=8.9.5
-updated=2026-11-11 19:15:08
+updated=2026-11-11 19:17:02
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

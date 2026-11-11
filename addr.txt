@@ -1,5 +1,5 @@
 biz=https://style-sake-familiar-victoria.trycloudflare.com
-backup2=https://548907554d3df9.lhr.life
+backup2=https://fiber-viewers-cats-table.trycloudflare.com
 backup3=https://548907554d3df9.lhr.life
 backup4=https://548907554d3df9.lhr.life
 backup5=https://548907554d3df9.lhr.life

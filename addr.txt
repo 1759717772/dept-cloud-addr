@@ -1,4 +1,4 @@
-biz=https://fever-shorts-meets-roberts.trycloudflare.com
+biz=https://velocity-firewire-caribbean-index.trycloudflare.com
 backup2=https://daughter-stroke-architects-cove.trycloudflare.com
 backup3=https://upper-afternoon-volume-contrary.trycloudflare.com
 backup4=https://548907554d3df9.lhr.life
@@ -9,7 +9,7 @@ backup1=https://representative-postal-infants-motorcycle.trycloudflare.com
 backup=https://548907554d3df9.lhr.life
 2nd=https://548907554d3df9.lhr.life
 version=8.9.5
-updated=2026-11-11 18:55:08
+updated=2026-11-11 18:56:58
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

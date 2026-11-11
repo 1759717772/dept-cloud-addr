@@ -1,5 +1,5 @@
 biz=https://roughly-aberdeen-developments-sectors.trycloudflare.com
-backup2=https://combinations-pine-web-bennett.trycloudflare.com
+backup2=https://staff-obituaries-magnificent-calculators.trycloudflare.com
 backup3=https://simpson-sing-bunch-billy.trycloudflare.com
 backup4=https://border-replaced-feed-quarters.trycloudflare.com
 backup5=https://investment-phase-pixels-flush.trycloudflare.com

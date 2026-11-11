@@ -1,5 +1,5 @@
 biz=https://roughly-aberdeen-developments-sectors.trycloudflare.com
-backup2=https://hazards-soul-conf-worthy.trycloudflare.com
+backup2=https://coupons-everyone-regularly-skilled.trycloudflare.com
 backup3=https://simpson-sing-bunch-billy.trycloudflare.com
 backup4=https://cult-milk-lawyers-commitments.trycloudflare.com
 backup5=https://nelson-loved-blog-harbor.trycloudflare.com

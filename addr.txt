@@ -1,5 +1,5 @@
 biz=https://roughly-aberdeen-developments-sectors.trycloudflare.com
-backup2=https://douglas-chapel-bin-distinct.trycloudflare.com
+backup2=https://acquisitions-achieving-gmt-aus.trycloudflare.com
 backup3=https://simpson-sing-bunch-billy.trycloudflare.com
 backup4=https://thing-spend-meant-prisoner.trycloudflare.com
 backup5=https://investment-phase-pixels-flush.trycloudflare.com

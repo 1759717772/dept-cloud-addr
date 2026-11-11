@@ -79,7 +79,7 @@
   }
 
   // 内置兜底地址：公告牌读不到时直接用（每次发版同步更新这一行即可）
-  var FALLBACK = ['https://f2797f54ca4b77.lhr.life'];  // [修复] 不再指向已死的旧隧道；公告牌 CDN 未及时刷新时，先拿这个当前活地址兜底探测（探测失败也不会跳死链，只会提示）
+  var FALLBACK = ['https://7df86b3b4a06fc.lhr.life'];  // [修复] 不再指向已死的旧隧道；公告牌 CDN 未及时刷新时，先拿这个当前活地址兜底探测（探测失败也不会跳死链，只会提示）
 
   function readOne(u) {
     return new Promise(function (resolve, reject) {

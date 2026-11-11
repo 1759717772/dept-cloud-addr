@@ -9,10 +9,10 @@ backup1=https://roughly-aberdeen-developments-sectors.trycloudflare.com
 backup=https://unsubscribe-surf-bought-transcription.trycloudflare.com
 2nd=https://unsubscribe-surf-bought-transcription.trycloudflare.com
 version=8.9.0
-updated=2026-11-11 13:57:37
-apk_version=8.6.6
-apk_url=https://aka.doubaocdn.com/s/3gZEoHyt5v
-apk_sha256=68d6183bc78a14d3bb7d67f46783d26b9aa6a3456b210efb381851264754ed56
+updated=2026-11-11 14:39:39
+apk_version=8.9.0
+apk_url=https://aka.doubaocdn.com/s/OovpHPBX57
+apk_sha256=ecd8fd8234cbf0ab881fbdbb5e70315560d3ce46b2994c6d96c7a23eeaa5da72
 apk_force=1
-apk_log=应用内强制更新：请更新到新版本（APK 壳 v7.9.12-cloud：隐藏“配置服务器”入口、服务地址自动获取且不频繁切换；云端 8.7.0 系列）
+apk_log=强更：APK 壳 v8.9.0-cloud（壳/云端/公告牌统一 8.9.0）
 pins=v1;expire=2026-12-01T00:00:00Z;aka.doubaocdn.com=fbbc1926ecd81729a0ccc27a2e78878b3a648e8991262c5327342df1298f1426;ghfast.top=72b4005c9018e35858c1599021fdbe3f4aa2cd916db89deb6435b23792211abe;gh-proxy.com=26eddb8c11c20d441c09748b4bab1d7e7a035eb96083622e2261382f5e48ee14;ghproxy.net=aec6a445f527a1d23047894e6d76be1d03d52f193afee0292f9b35fccbcb9ece;raw.githubusercontent.com=94db9ac7d44da25f17c751844eeafd7eb8d7b7e8629ac64708b28e8229ef172c;1759717772.github.io=94db9ac7d44da25f17c751844eeafd7eb8d7b7e8629ac64708b28e8229ef172c;cdn.jsdelivr.net=31c6519094d4adab1738d7ae5627fcf3941c21f920c50ca94e4a18ebd3b5e311

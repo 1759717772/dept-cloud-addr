@@ -1,4 +1,4 @@
-biz=https://com-instruments-dir-priced.trycloudflare.com
+biz=https://yours-deals-volt-cfr.trycloudflare.com
 backup2=https://ferrari-moral-edwards-celebs.trycloudflare.com
 backup3=https://hills-rec-cookie-jeffrey.trycloudflare.com
 backup4=https://548907554d3df9.lhr.life
@@ -9,7 +9,7 @@ backup1=https://consult-healthy-pas-francis.trycloudflare.com
 backup=https://548907554d3df9.lhr.life
 2nd=https://548907554d3df9.lhr.life
 version=8.9.5
-updated=2026-11-11 19:00:54
+updated=2026-11-11 19:02:38
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

@@ -1,4 +1,4 @@
-biz=https://bargain-sells-hats-specialist.trycloudflare.com
+biz=https://tractor-metals-outputs-wilderness.trycloudflare.com
 backup2=https://another-armed-joke-minerals.trycloudflare.com
 backup3=https://mysql-threaded-newfoundland-address.trycloudflare.com
 backup4=https://548907554d3df9.lhr.life
@@ -9,7 +9,7 @@ backup1=https://concentrate-running-resorts-beliefs.trycloudflare.com
 backup=https://548907554d3df9.lhr.life
 2nd=https://548907554d3df9.lhr.life
 version=8.9.5
-updated=2026-11-11 19:04:14
+updated=2026-11-11 19:06:01
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

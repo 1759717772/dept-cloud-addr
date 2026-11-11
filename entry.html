@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>部门综合管理系统 · 入口</title>
+<style>
+  :root{--brand:#1b5e9e;--ink:#16202e;--sub:#64748b;--line:#e2e8f0;--card:#fff}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+    background:linear-gradient(160deg,#0f2a4a 0%,#1b5e9e 55%,#2f7fc1 100%);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;padding:20px}
+  .card{width:100%;max-width:400px;background:var(--card);border-radius:18px;
+    box-shadow:0 18px 50px rgba(0,0,0,.28);padding:28px 24px 22px;text-align:center}
+  .logo{width:56px;height:56px;margin:0 auto 14px;border-radius:14px;
+    background:linear-gradient(145deg,#2f7fc1,#1b5e9e);display:flex;align-items:center;justify-content:center;
+    box-shadow:0 8px 20px rgba(27,94,158,.35)}
+  .logo svg{width:28px;height:28px;fill:#fff}
+  h1{font-size:19px;margin:0 0 6px;color:var(--ink);letter-spacing:.5px}
+  .sub{font-size:13px;color:var(--sub);margin:0 0 20px;line-height:1.6}
+  .state{font-size:14px;color:var(--ink);background:#f1f5f9;border-radius:10px;padding:12px 14px;
+    margin-bottom:16px;line-height:1.6;word-break:break-all}
+  .state b{color:var(--brand)}
+  .btn{display:block;width:100%;border:0;border-radius:12px;padding:15px;font-size:16px;font-weight:600;
+    color:#fff;background:linear-gradient(135deg,#2f7fc1,#1b5e9e);cursor:pointer;letter-spacing:1px;
+    box-shadow:0 8px 18px rgba(27,94,158,.3)}
+  .btn:active{transform:translateY(1px)}
+  .btn[disabled]{opacity:.55;box-shadow:none}
+  .tips{margin-top:16px;font-size:12px;color:#94a3b8;line-height:1.7}
+  .list{margin-top:14px;text-align:left;font-size:12px;color:var(--sub)}
+  .list div{padding:6px 0;border-bottom:1px dashed var(--line);word-break:break-all}
+  .list div:last-child{border-bottom:0}
+  .ok{color:#0f9d58}.bad{color:#d93025}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo"><svg viewBox="0 0 24 24"><path d="M12 3l9 6v12H3V9l9-6zm0 2.6L5 10.1V19h14V10.1L12 5.6z"/></svg></div>
+  <h1>部门综合管理系统</h1>
+  <p class="sub">消防护卫 · 培训考核 · 检查整改 · 值班勤务<br>本页会自动找当前可用的服务器</p>
+
+  <div class="state" id="state">正在读取服务器地址…</div>
+  <button class="btn" id="go" disabled>正在检测…</button>
+
+  <div class="list" id="list"></div>
+  <p class="tips" id="tips">如果一直打不开，请把本页截图发回，便于定位是网络阻断还是服务未启动。</br></p>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var BOARDS = [
+    'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt',
+    'https://cdn.jsdelivr.net/gh/1759717772/dept-cloud-addr@main/addr.txt'
+  ];
+  var lastGood = '';
+
+  function el(id){ return document.getElementById(id); }
+  function setState(t){ el('state').innerHTML = t; }
+
+  function probe(base, timeout) {
+    return new Promise(function (resolve) {
+      var ctrl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+      var timer = setTimeout(function () {
+        if (ctrl) ctrl.abort();
+        resolve({ url: base, ok: false, code: 'timeout' });
+      }, timeout || 6000);
+      var u = base.replace(/\/+$/, '') + '/api/version?_=' + Date.now();
+      fetch(u, ctrl ? { signal: ctrl.signal, cache: 'no-store', mode: 'cors' } : { cache: 'no-store' })
+        .then(function (r) { return r.json().then(function (j) { return { r: r, j: j }; }); })
+        .then(function (x) {
+          clearTimeout(timer);
+          var ver = (x.j && x.j.data && x.j.data.version) || '';
+          resolve({ url: base, ok: x.r.ok, code: x.r.status, version: ver });
+        })
+        .catch(function () { clearTimeout(timer); resolve({ url: base, ok: false, code: 'fail' }); });
+    });
+  }
+
+  // 内置兜底地址：公告牌读不到时直接用（每次发版同步更新这一行即可）
+  var FALLBACK = ['https://651ce3603860eb.lhr.life'];
+
+  function readOne(u) {
+    return new Promise(function (resolve, reject) {
+      var ctrl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+      var timer = setTimeout(function () { if (ctrl) ctrl.abort(); reject(new Error('board-timeout')); }, 6000);
+      fetch(u + '?_=' + Date.now(), ctrl ? { cache: 'no-store', signal: ctrl.signal } : { cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error('board-' + r.status); return r.text(); })
+        .then(function (t) { clearTimeout(timer); resolve(t); })
+        .catch(function (e) { clearTimeout(timer); reject(e); });
+    });
+  }
+
+  function readBoard(i) {
+    var idx = i || 0;
+    if (idx >= BOARDS.length) return Promise.resolve('');
+    return readOne(BOARDS[idx])
+      .then(function (t) {
+        var re = /^(biz2|biz|2nd|backup\d?|tunnel)=(https?:\/\/\S+)/gm;
+        var m, all = [];
+        while ((m = re.exec(t)) !== null) all.push(m[2]);
+        if (!all.length) throw 0;
+        return { url: all[0], all: all };
+      })
+      .catch(function () { return readBoard(idx + 1); });
+  }
+
+  function render(list) {
+    var box = el('list');
+    box.innerHTML = '';
+    list.forEach(function (p) {
+      var d = document.createElement('div');
+      d.innerHTML = (p.ok ? '<span class="ok">✓ 可用</span>' : '<span class="bad">✗ 不可用</span>')
+        + ' ' + p.url.replace('https://', '') + (p.version ? ' · v' + p.version : '') + ' (' + p.code + ')';
+      box.appendChild(d);
+    });
+  }
+
+  function run() {
+    el('go').disabled = true;
+    el('go').textContent = '正在检测…';
+    readBoard(0).then(function (b) {
+      var cands = (b && b.all && b.all.length) ? b.all.slice(0, 4) : FALLBACK;
+      if (!b || !b.url) {
+        setState('公告牌读取失败，改用内置地址检测…');
+      } else {
+        setState('正在检测 <b>' + cands.length + '</b> 个候选地址…');
+      }
+      Promise.all(cands.map(function (u) { return probe(u, 6000); })).then(function (rs) {
+        render(rs);
+        var good = rs.filter(function (x) { return x.ok; })[0];
+        if (good) {
+          lastGood = good.url;
+          setState('已找到可用服务器：<b>' + good.url.replace('https://', '') + '</b>'
+            + (good.version ? '（v' + good.version + '）' : ''));
+          var btn = el('go');
+          btn.disabled = false;
+          btn.textContent = '进入系统';
+          btn.onclick = function () { location.replace(good.url); };
+          setTimeout(function () { location.replace(good.url); }, 800);
+        } else {
+          setState('所有候选地址都连不上。服务可能未启动，或当前网络无法访问该域名。');
+          var btn2 = el('go');
+          btn2.disabled = false;
+          btn2.textContent = '重试';
+          btn2.onclick = run;
+        }
+      });
+    });
+  }
+
+  el('go').onclick = run;
+  run();
+})();
+</script>
+</body>
+</html>

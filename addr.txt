@@ -1,6 +1,6 @@
 biz=https://bargain-sells-hats-specialist.trycloudflare.com
 backup2=https://another-armed-joke-minerals.trycloudflare.com
-backup3=https://wrestling-quickly-interviews-cruise.trycloudflare.com
+backup3=https://mysql-threaded-newfoundland-address.trycloudflare.com
 backup4=https://548907554d3df9.lhr.life
 backup5=https://548907554d3df9.lhr.life
 backup6=https://548907554d3df9.lhr.life

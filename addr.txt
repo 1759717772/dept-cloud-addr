@@ -1,4 +1,4 @@
-biz=https://rats-drove-emissions-nasa.trycloudflare.com
+biz=https://little-context-lyrics-environmental.trycloudflare.com
 backup2=https://photography-pixel-underlying-roads.trycloudflare.com
 backup3=https://clock-collectible-losses-proposal.trycloudflare.com
 backup4=https://pdf-construct-ranges-diving.trycloudflare.com
@@ -9,7 +9,7 @@ backup1=https://postage-declared-jesus-glass.trycloudflare.com
 backup=https://71bfaf2c181926.lhr.life
 2nd=https://71bfaf2c181926.lhr.life
 version=8.9.5
-updated=2026-11-11 19:13:18
+updated=2026-11-11 19:15:08
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

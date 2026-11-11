@@ -1,4 +1,4 @@
-biz=https://71bfaf2c181926.lhr.life
+biz=https://publicly-suggestion-soma-leather.trycloudflare.com
 backup2=https://71bfaf2c181926.lhr.life
 backup3=https://71bfaf2c181926.lhr.life
 backup4=https://71bfaf2c181926.lhr.life
@@ -9,7 +9,7 @@ backup1=https://71bfaf2c181926.lhr.life
 backup=https://71bfaf2c181926.lhr.life
 2nd=https://71bfaf2c181926.lhr.life
 version=8.9.5
-updated=2026-11-11 19:06:01
+updated=2026-11-11 19:07:49
 apk_version=8.9.5
 apk_url=https://aka.doubaocdn.com/s/C56cH7DVLs
 apk_sha256=4ae0e1d9c83b2970786911dd50b719aa7496374dd3844de44c4e486f10ff60c5

@@ -20,5 +20,5 @@ pins=v1;expire=2026-12-01T00:00:00Z;aka.doubaocdn.com=fbbc1926ecd81729a0ccc27a2e
 
 updated_2nd=2026-11-11 23:45
 pkg_url=https://aka.doubaocdn.com/s/nNIa2FkkLV
-pkg_version=8.9.5
+pkg_version=8.9.11
 pkg_sha256=f1a2d6a97c504d349193bc4d6f5909840c212913f87413d956580b0338a9fe28

@@ -1,6 +1,6 @@
 biz=https://fee-wto-initiatives-img.trycloudflare.com
 backup2=https://9afa4edbddf19d.lhr.life
-backup3=https://9afa4edbddf19d.lhr.life
+backup3=https://answering-them-declare-sister.trycloudflare.com
 backup4=https://9afa4edbddf19d.lhr.life
 backup5=https://9afa4edbddf19d.lhr.life
 backup6=https://9afa4edbddf19d.lhr.life

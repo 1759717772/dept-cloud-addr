@@ -49,10 +49,14 @@
 <script>
 (function () {
   'use strict';
+  // [国内加速] 手机在国内直连 raw/Pages 经常超时；ghfast.top / gh-proxy 是 GitHub 的国内反代，
+  // 实测 1.1~1.3 秒可达，排在前面优先命中，GitHub 原生源保留作兜底。
   var BOARDS = [
-    'https://1759717772.github.io/dept-cloud-addr/addr.txt',
+    'https://ghfast.top/https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt',
+    'https://gh-proxy.com/https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt',
     'https://raw.githubusercontent.com/1759717772/dept-cloud-addr/main/addr.txt',
-    'https://cdn.jsdelivr.net/gh/1759717772/dept-cloud-addr@main/addr.txt'
+    'https://1759717772.github.io/dept-cloud-addr/addr.txt',
+    'https://fastly.jsdelivr.net/gh/1759717772/dept-cloud-addr@main/addr.txt'
   ];
   var lastGood = '';
 
@@ -65,7 +69,7 @@
       var timer = setTimeout(function () {
         if (ctrl) ctrl.abort();
         resolve({ url: base, ok: false, code: 'timeout' });
-      }, timeout || 6000);
+      }, timeout || 12000);
       var u = base.replace(/\/+$/, '') + '/api/version?_=' + Date.now();
       fetch(u, ctrl ? { signal: ctrl.signal, cache: 'no-store', mode: 'cors' } : { cache: 'no-store' })
         .then(function (r) { return r.json().then(function (j) { return { r: r, j: j }; }); })
@@ -79,7 +83,7 @@
   }
 
   // 内置兜底地址：公告牌读不到时直接用（每次发版同步更新这一行即可）
-  var FALLBACK = ['https://64548ac98b2b6c.lhr.life'];  // [修复] 不再指向已死的旧隧道；公告牌 CDN 未及时刷新时，先拿这个当前活地址兜底探测（探测失败也不会跳死链，只会提示）
+  var FALLBACK = ['https://3e3322380a9506.lhr.life'];  // [修复] 不再指向已死的旧隧道；公告牌 CDN 未及时刷新时，先拿这个当前活地址兜底探测（探测失败也不会跳死链，只会提示）
 
   function readOne(u) {
     return new Promise(function (resolve, reject) {
@@ -155,7 +159,7 @@
       } else {
         setState('正在检测 <b>' + cands.length + '</b> 个候选地址…');
       }
-      Promise.all(cands.map(function (u) { return probe(u, 6000); })).then(function (rs) {
+      Promise.all(cands.map(function (u) { return probe(u, 12000); })).then(function (rs) {
         render(rs);
         var good = rs.filter(function (x) { return x.ok; })[0];
         if (good) {
